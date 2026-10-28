@@ -2,14 +2,14 @@
 
 > Metricool publica solo a las 18:00. Tú subes estas 4.
 
-**Descarga todo junto:** [2026-11-02.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-02/2026-11-02.zip)
+**Descarga todo junto:** [2026-11-02.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-02/2026-11-02.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 10:00 | La Ruta Maestra hacia la Certificación PMP | Reel | [01_10h00_pmp-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-02/01_10h00_pmp-es.mp4) |
-| 2 | 12:00 | The AI Digital Wealth Factory | Carrusel (video) | [02_12h00_wealth.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-02/02_12h00_wealth.mp4) |
-| 3 | 15:00 | AWS Solutions Architect Associate | Carrusel (video) | [03_15h00_aws-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-02/03_15h00_aws-es.mp4) |
-| 4 | 20:00 | Chief AI Officer | Reel | [04_20h00_caio.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-02/04_20h00_caio.mp4) |
+| 1 | 10:00 | La Ruta Maestra hacia la Certificación PMP | Reel | [01_10h00_pmp-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-02/01_10h00_pmp-es.mp4) |
+| 2 | 12:00 | The AI Digital Wealth Factory | Carrusel (video) | [02_12h00_wealth.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-02/02_12h00_wealth.mp4) |
+| 3 | 15:00 | AWS Solutions Architect Associate | Carrusel (video) | [03_15h00_aws-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-02/03_15h00_aws-es.mp4) |
+| 4 | 20:00 | Chief AI Officer | Reel | [04_20h00_caio.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-02/04_20h00_caio.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

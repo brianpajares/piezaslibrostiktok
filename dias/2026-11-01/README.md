@@ -2,14 +2,14 @@
 
 > Metricool publica solo a las 18:00. Tú subes estas 4.
 
-**Descarga todo junto:** [2026-11-01.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-01/2026-11-01.zip)
+**Descarga todo junto:** [2026-11-01.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-01/2026-11-01.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 10:00 | AWS Solutions Architect Associate | Carrusel (video) | [01_10h00_aws-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-01/01_10h00_aws-en.mp4) |
-| 2 | 12:00 | CFA: The Certified Path to Global Financial Success | Reel | [02_12h00_cfa-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-01/02_12h00_cfa-en.mp4) |
-| 3 | 15:00 | Master the Age of Generative AI | Reel | [03_15h00_genai-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-01/03_15h00_genai-en.mp4) |
-| 4 | 20:00 | The AI Digital Wealth Factory | Reel | [04_20h00_wealth.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-01/04_20h00_wealth.mp4) |
+| 1 | 10:00 | AWS Solutions Architect Associate | Carrusel (video) | [01_10h00_aws-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-01/01_10h00_aws-en.mp4) |
+| 2 | 12:00 | CFA: The Certified Path to Global Financial Success | Reel | [02_12h00_cfa-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-01/02_12h00_cfa-en.mp4) |
+| 3 | 15:00 | Master the Age of Generative AI | Reel | [03_15h00_genai-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-01/03_15h00_genai-en.mp4) |
+| 4 | 20:00 | The AI Digital Wealth Factory | Reel | [04_20h00_wealth.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-01/04_20h00_wealth.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

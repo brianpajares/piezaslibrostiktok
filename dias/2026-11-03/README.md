@@ -2,14 +2,14 @@
 
 > Metricool publica solo a las 18:00. Tú subes estas 4.
 
-**Descarga todo junto:** [2026-11-03.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-03/2026-11-03.zip)
+**Descarga todo junto:** [2026-11-03.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-03/2026-11-03.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 10:00 | AWS Solutions Architect Associate | Reel | [01_10h00_aws-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-03/01_10h00_aws-en.mp4) |
-| 2 | 12:00 | VIBE CODING | Reel | [02_12h00_vibe.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-03/02_12h00_vibe.mp4) |
-| 3 | 15:00 | CFA: El Camino Certificado al Éxito Financiero Global | Reel | [03_15h00_cfa-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-03/03_15h00_cfa-es.mp4) |
-| 4 | 20:00 | The AI Growth Operating System | Reel | [04_20h00_growthos.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-03/04_20h00_growthos.mp4) |
+| 1 | 10:00 | AWS Solutions Architect Associate | Reel | [01_10h00_aws-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-03/01_10h00_aws-en.mp4) |
+| 2 | 12:00 | VIBE CODING | Reel | [02_12h00_vibe.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-03/02_12h00_vibe.mp4) |
+| 3 | 15:00 | CFA: El Camino Certificado al Éxito Financiero Global | Reel | [03_15h00_cfa-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-03/03_15h00_cfa-es.mp4) |
+| 4 | 20:00 | The AI Growth Operating System | Reel | [04_20h00_growthos.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-03/04_20h00_growthos.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

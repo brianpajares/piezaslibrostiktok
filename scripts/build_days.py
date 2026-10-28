@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Arma los paquetes diarios de TikTok (videos + copys + zip) para un rango de fechas.
 
-  python3 scripts/build_days.py --from 2026-10-29 --to 2026-11-04 [--jobs 4] [--release]
+  python3 scripts/build_days.py --from 2026-10-29 --to 2026-11-04 [--jobs 4] [--publish]
 
 Qué hace:
   1. Decide cuántas piezas manuales tiene cada día: 5 menos las que publica Metricool solo (content/config.json).
   2. Asigna piezas de content/pool.json (primero las fechadas para ese día, luego las siguientes, sin repetir libro en el día).
   3. Diseña cada pieza (reel o carrusel en video 9:16) con engine/render.py.
   4. Escribe dias/AAAA-MM-DD/README.md (orden, horas y copys) y build/AAAA-MM-DD/*.mp4 + .zip.
-  5. Con --release sube los videos y el zip como Release "AAAA-MM-DD" del repositorio (necesita gh).
+  5. Con --publish copia videos y zip a la rama `media` (solo ~14 días vigentes) y la sube (scripts/publish_media.sh).
 """
 import argparse, datetime as dt, json, os, shutil, subprocess, sys, zipfile
 from multiprocessing import Pool
@@ -87,7 +87,7 @@ def write_day(date, slots, byid):
     auto = auto_times(date)
     d = os.path.join(ROOT, "dias", date)
     os.makedirs(d, exist_ok=True)
-    base = f"https://github.com/{CFG['repo']}/releases/download/{date}"
+    base = f"https://github.com/{CFG['repo']}/raw/media/dias/{date}"
     lines = [f"# {nice_date(date)} — {len(slots)} piezas para subir a TikTok", ""]
     if auto:
         lines += [f"> Metricool publica solo a las {', '.join(auto)}. Tú subes estas {len(slots)}.", ""]
@@ -126,24 +126,12 @@ def make_zip(date, copies):
     return zp
 
 
-def release(date):
-    folder = os.path.join(BUILD, date)
-    assets = [os.path.join(folder, f) for f in sorted(os.listdir(folder)) if f.endswith((".mp4", ".zip"))]
-    notes = f"Piezas de TikTok para {nice_date(date)}. Copys en dias/{date}/README.md"
-    exists = subprocess.run(["gh", "release", "view", date, "--repo", CFG["repo"]],
-                            capture_output=True).returncode == 0
-    if exists:
-        subprocess.run(["gh", "release", "upload", date, *assets, "--clobber", "--repo", CFG["repo"]], check=True)
-    else:
-        subprocess.run(["gh", "release", "create", date, *assets, "--repo", CFG["repo"],
-                        "--title", f"{nice_date(date)} — TikTok", "--notes", notes], check=True)
-
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--from", dest="a", required=True); ap.add_argument("--to", dest="b", required=True)
     ap.add_argument("--jobs", type=int, default=os.cpu_count() or 2)
-    ap.add_argument("--release", action="store_true")
+    ap.add_argument("--publish", action="store_true")
     a = ap.parse_args()
     pool = jload(POOL_F, {"pieces": []})["pieces"]; byid = {p["id"]: p for p in pool}
     plan = jload(PLAN_F, {})
@@ -160,9 +148,8 @@ def main():
     for date in dates:
         copies = write_day(date, plan[date], byid)
         make_zip(date, copies)
-        if a.release:
-            release(date)
-            print("release", date, flush=True)
+    if a.publish:
+        subprocess.run(["bash", os.path.join(ROOT, "scripts", "publish_media.sh")], check=True)
 
 
 if __name__ == "__main__":

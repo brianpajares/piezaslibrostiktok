@@ -2,12 +2,12 @@
 
 > Metricool publica solo a las 10:00, 12:00, 18:00. Tú subes estas 2.
 
-**Descarga todo junto:** [2026-10-29.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-29/2026-10-29.zip)
+**Descarga todo junto:** [2026-10-29.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-29/2026-10-29.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 15:00 | CFA: The Certified Path to Global Financial Success | Carrusel (video) | [01_15h00_cfa-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-29/01_15h00_cfa-en.mp4) |
-| 2 | 20:00 | The Master Path to PMP Certification | Reel | [02_20h00_pmp-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-29/02_20h00_pmp-en.mp4) |
+| 1 | 15:00 | CFA: The Certified Path to Global Financial Success | Carrusel (video) | [01_15h00_cfa-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-29/01_15h00_cfa-en.mp4) |
+| 2 | 20:00 | The Master Path to PMP Certification | Reel | [02_20h00_pmp-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-29/02_20h00_pmp-en.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

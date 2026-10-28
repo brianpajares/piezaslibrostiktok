@@ -2,12 +2,12 @@
 
 > Metricool publica solo a las 10:00, 12:00, 18:00. Tú subes estas 2.
 
-**Descarga todo junto:** [2026-10-31.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-31/2026-10-31.zip)
+**Descarga todo junto:** [2026-10-31.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-31/2026-10-31.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 15:00 | VIBE CODING | Carrusel (video) | [01_15h00_vibe.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-31/01_15h00_vibe.mp4) |
-| 2 | 20:00 | La Ruta Maestra hacia la Certificación PMP | Reel | [02_20h00_pmp-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-31/02_20h00_pmp-es.mp4) |
+| 1 | 15:00 | VIBE CODING | Carrusel (video) | [01_15h00_vibe.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-31/01_15h00_vibe.mp4) |
+| 2 | 20:00 | La Ruta Maestra hacia la Certificación PMP | Reel | [02_20h00_pmp-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-31/02_20h00_pmp-es.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

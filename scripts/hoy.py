@@ -20,7 +20,7 @@ open(os.path.join(ROOT, "HOY.md"), "w", encoding="utf-8").write(
 plan = json.load(open(os.path.join(ROOT, "content", "plan.json"), encoding="utf-8"))[date]
 pool = {p["id"]: p for p in json.load(open(os.path.join(ROOT, "content", "pool.json"), encoding="utf-8"))["pieces"]}
 repo = json.load(open(os.path.join(ROOT, "content", "config.json"), encoding="utf-8"))["repo"]
-base = f"https://github.com/{repo}/releases/download/{date}"
+base = f"https://github.com/{repo}/raw/media/dias/{date}"
 lines = [f"TikTok hoy {date}: {len(plan)} piezas",
          f"Todo en uno: {base}/{date}.zip",
          f"Copys listos: https://github.com/{repo}/blob/main/dias/{date}/README.md"]

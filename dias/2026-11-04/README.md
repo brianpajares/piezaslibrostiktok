@@ -2,14 +2,14 @@
 
 > Metricool publica solo a las 18:00. Tú subes estas 4.
 
-**Descarga todo junto:** [2026-11-04.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-04/2026-11-04.zip)
+**Descarga todo junto:** [2026-11-04.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-04/2026-11-04.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 10:00 | La Ruta Maestra hacia la Certificación PMP | Carrusel (video) | [01_10h00_pmp-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-04/01_10h00_pmp-es.mp4) |
-| 2 | 12:00 | CFA: The Certified Path to Global Financial Success | Reel | [02_12h00_cfa-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-04/02_12h00_cfa-en.mp4) |
-| 3 | 15:00 | The Master Path to PMP Certification | Carrusel (video) | [03_15h00_pmp-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-04/03_15h00_pmp-en.mp4) |
-| 4 | 20:00 | VIBE CODING | Reel | [04_20h00_vibe.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-11-04/04_20h00_vibe.mp4) |
+| 1 | 10:00 | La Ruta Maestra hacia la Certificación PMP | Carrusel (video) | [01_10h00_pmp-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-04/01_10h00_pmp-es.mp4) |
+| 2 | 12:00 | CFA: The Certified Path to Global Financial Success | Reel | [02_12h00_cfa-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-04/02_12h00_cfa-en.mp4) |
+| 3 | 15:00 | The Master Path to PMP Certification | Carrusel (video) | [03_15h00_pmp-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-04/03_15h00_pmp-en.mp4) |
+| 4 | 20:00 | VIBE CODING | Reel | [04_20h00_vibe.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-11-04/04_20h00_vibe.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

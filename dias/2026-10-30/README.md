@@ -2,12 +2,12 @@
 
 > Metricool publica solo a las 10:00, 12:00, 18:00. Tú subes estas 2.
 
-**Descarga todo junto:** [2026-10-30.zip](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-30/2026-10-30.zip)
+**Descarga todo junto:** [2026-10-30.zip](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-30/2026-10-30.zip)
 
 | # | Hora | Libro | Formato | Video |
 |---|---|---|---|---|
-| 1 | 15:00 | Master the Age of Generative AI | Carrusel (video) | [01_15h00_genai-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-30/01_15h00_genai-en.mp4) |
-| 2 | 20:00 | AWS Solutions Architect Associate | Reel | [02_20h00_aws-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/releases/download/2026-10-30/02_20h00_aws-es.mp4) |
+| 1 | 15:00 | Master the Age of Generative AI | Carrusel (video) | [01_15h00_genai-en.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-30/01_15h00_genai-en.mp4) |
+| 2 | 20:00 | AWS Solutions Architect Associate | Reel | [02_20h00_aws-es.mp4](https://github.com/brianpajares/piezaslibrostiktok/raw/media/dias/2026-10-30/02_20h00_aws-es.mp4) |
 
 ## Copys (toca el botón de copiar de cada bloque)
 

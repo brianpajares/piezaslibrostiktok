@@ -26,7 +26,7 @@ El plan gratis de Metricool publica 20 piezas al mes. Si activas Starter (~€16
 |---|---|
 | `HOY.md` | Lo de hoy (se actualiza cada mañana) |
 | `dias/AAAA-MM-DD/` | Plan del día + copys (`.txt`) |
-| **Releases** (`AAAA-MM-DD`) | Los videos `.mp4` y el `.zip` del día |
+| rama **`media`** › `dias/AAAA-MM-DD/` | Los videos `.mp4` y el `.zip` del día (solo las 2 semanas vigentes) |
 | `content/pool.json` | Banco de piezas por publicar (hooks, puntos, diapositivas, copy) |
 | `content/plan.json` | Qué pieza va en qué día y hora |
 | `content/config.json` | Horas, total diario y franjas de Metricool |
