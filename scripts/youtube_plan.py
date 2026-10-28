@@ -3,7 +3,7 @@
 
   python3 scripts/youtube_plan.py --from 2026-10-29 --to 2026-11-04
 
-Regla: un Short al día a las config.youtube_time (19:00 Lima) en los días 1–20 de cada mes
+Regla: un Short al día a las config.youtube_time (19:00 Lima) en los días 1–config.youtube_max_day (10) de cada mes
 (y del 29 al 31 de octubre de 2026). Usa el primer REEL del paquete manual del día (o la primera pieza).
 Omite los días ya registrados en content/youtube.json. Imprime JSON: [{date, piece, url, payload}].
 Después de programar cada uno en Metricool, regístralo: --mark FECHA METRICOOL_ID
@@ -21,7 +21,7 @@ YT_TIME = CFG.get("youtube_time", "19:00")
 
 def is_yt_day(date):
     d = dt.date.fromisoformat(date)
-    return date >= "2026-10-29" and (d.day <= 20 or (d.year == 2026 and d.month == 10))
+    return date >= "2026-10-29" and (d.day <= CFG.get("youtube_max_day", 10) or (d.year == 2026 and d.month == 10))
 
 
 def main():

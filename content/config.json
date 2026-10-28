@@ -17,26 +17,28 @@
     "12:00",
     "18:00"
    ],
-   "note": "Metricool (plan gratis) publica solo"
+   "note": "Metricool gratis: oct = 10 TikTok + 3 Shorts = 13 de 20"
   },
   {
    "from": "2026-11-01",
-   "to": "2026-11-20",
+   "to": "2026-11-10",
    "times": [
     "18:00"
    ],
-   "note": "Metricool (20 gratis/mes)"
+   "note": "Metricool gratis: 10 TikTok + 10 Shorts = 20/mes"
   },
   {
    "from": "2026-12-01",
-   "to": "2026-12-20",
+   "to": "2026-12-10",
    "times": [
     "18:00"
    ],
-   "note": "Metricool (20 gratis/mes)"
+   "note": "Metricool gratis: 10 TikTok + 10 Shorts = 20/mes"
   }
  ],
  "repo": "brianpajares/piezaslibrostiktok",
  "youtube_time": "19:00",
- "youtube_rule": "1 Short/día días 1–20 de cada mes (+29–31 oct 2026), plan gratis Metricool"
+ "youtube_rule": "1 Short/día días 1–10 de cada mes (+29–31 oct 2026). Con TikTok 18:00 días 1–10 = 20/mes",
+ "metricool_free_limit": "20 publicaciones/mes EN TOTAL por marca; cada red cuenta aparte (TikTok + YouTube suman)",
+ "youtube_max_day": 10
 }

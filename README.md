@@ -16,16 +16,16 @@ Cada mañana te llega un aviso con la lista del día y los enlaces.
 | Período | Metricool (gratis, automático) | Tú subes a mano | Total |
 |---|---|---|---|
 | 29–31 oct | 10:00 · 12:00 · 18:00 | 15:00 · 20:00 | 5 |
-| 1–20 nov y 1–20 dic | 18:00 | 10:00 · 12:00 · 15:00 · 20:00 | 5 |
-| 21–30 nov y 21–31 dic | — | 10:00 · 12:00 · 15:00 · 18:00 · 20:00 | 5 |
+| 1–10 nov y 1–10 dic | 18:00 | 10:00 · 12:00 · 15:00 · 20:00 | 5 |
+| 11–30 nov y 11–31 dic | — | 10:00 · 12:00 · 15:00 · 18:00 · 20:00 | 5 |
 
-El plan gratis de Metricool publica 20 piezas al mes. Si activas Starter (~€16/mes) todo pasa a ser automático y el tiempo manual baja a cero.
+El plan gratis de Metricool permite **20 publicaciones al mes en total** (cada red cuenta aparte). Se reparten así: 10 TikTok (18:00, días 1–10) + 10 YouTube Shorts (19:00, días 1–10). Si activas Starter (~€16/mes) todo pasa a ser automático y el tiempo manual baja a cero.
 
 ## Automático y gratis (sin que hagas nada)
 
-- **TikTok vía Metricool:** las publicaciones de las 18:00 de la tabla de arriba (20 al mes).
-- **YouTube Shorts (@Zone-Digital):** 1 Short diario a las 19:00, días 1–20 de cada mes (20 al mes), con el mejor reel del día. Lo programa la tarea del domingo (`scripts/youtube_plan.py`, registro en `content/youtube.json`).
-- **Instagram / Facebook:** si los conectas en Metricool, la tarea del domingo también programa sus 20 gratis al mes con los mismos videos y te descuenta ese trabajo manual.
+- **TikTok vía Metricool:** las publicaciones de las 18:00 de los días 1–10 (10 al mes).
+- **YouTube Shorts (@Zone-Digital):** 1 Short diario a las 19:00, días 1–10 de cada mes (10 al mes), con el mejor reel del día. Lo programa la tarea del domingo (`scripts/youtube_plan.py`, registro en `content/youtube.json`).
+- **Instagram / Facebook:** el cupo gratis ya se usa en TikTok + YouTube; se automatizan solo si activas Starter.
 
 ## Dónde está cada cosa
 
