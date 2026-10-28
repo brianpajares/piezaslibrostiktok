@@ -1,11 +1,42 @@
 {
  "timezone": "America/Lima",
  "daily_total": 5,
- "manual_times": ["10:00", "12:00", "15:00", "18:00", "20:00"],
- "auto_metricool": [
-  {"from": "2026-10-29", "to": "2026-10-31", "times": ["10:00", "12:00", "18:00"], "note": "Metricool (plan gratis) publica solo"},
-  {"from": "2026-11-01", "to": "2026-11-20", "times": ["18:00"], "note": "Metricool (20 gratis/mes)"},
-  {"from": "2026-12-01", "to": "2026-12-20", "times": ["18:00"], "note": "Metricool (20 gratis/mes)"}
+ "manual_times": [
+  "10:00",
+  "12:00",
+  "15:00",
+  "18:00",
+  "20:00"
  ],
- "repo": "brianpajares/piezaslibrostiktok"
+ "auto_metricool": [
+  {
+   "from": "2026-10-29",
+   "to": "2026-10-31",
+   "times": [
+    "10:00",
+    "12:00",
+    "18:00"
+   ],
+   "note": "Metricool (plan gratis) publica solo"
+  },
+  {
+   "from": "2026-11-01",
+   "to": "2026-11-20",
+   "times": [
+    "18:00"
+   ],
+   "note": "Metricool (20 gratis/mes)"
+  },
+  {
+   "from": "2026-12-01",
+   "to": "2026-12-20",
+   "times": [
+    "18:00"
+   ],
+   "note": "Metricool (20 gratis/mes)"
+  }
+ ],
+ "repo": "brianpajares/piezaslibrostiktok",
+ "youtube_time": "19:00",
+ "youtube_rule": "1 Short/día días 1–20 de cada mes (+29–31 oct 2026), plan gratis Metricool"
 }

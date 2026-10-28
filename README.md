@@ -21,6 +21,12 @@ Cada mañana te llega un aviso con la lista del día y los enlaces.
 
 El plan gratis de Metricool publica 20 piezas al mes. Si activas Starter (~€16/mes) todo pasa a ser automático y el tiempo manual baja a cero.
 
+## Automático y gratis (sin que hagas nada)
+
+- **TikTok vía Metricool:** las publicaciones de las 18:00 de la tabla de arriba (20 al mes).
+- **YouTube Shorts (@Zone-Digital):** 1 Short diario a las 19:00, días 1–20 de cada mes (20 al mes), con el mejor reel del día. Lo programa la tarea del domingo (`scripts/youtube_plan.py`, registro en `content/youtube.json`).
+- **Instagram / Facebook:** si los conectas en Metricool, la tarea del domingo también programa sus 20 gratis al mes con los mismos videos y te descuenta ese trabajo manual.
+
 ## Dónde está cada cosa
 
 | Carpeta | Contenido |

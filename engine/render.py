@@ -440,6 +440,18 @@ def caption_ig(p):
     tags = " ".join(b["tags"].split()[:4] + ["#zonedigital"])
     return f"{hook}\n\n{p['cap']}\n{save}\n\n📘 {b['title']} — {fmt}\n{cta}\n\n{tags}"
 
+def caption_yt(p):
+    """YouTube Shorts: (title ≤100 chars with #Shorts, description)."""
+    b = CAT["books"][p["book"]]; es = b["lang"] == "es"
+    hook = (p.get("hook") or p["slides"][0]["h"]).strip()
+    title = (hook[:88].rstrip() + " #Shorts")
+    cta = (f'📘 Libro: {b["title"]} (Kindle USD 9.99) — búscalo en Amazon o entra a zone-digital.com'
+           if es else f'📘 Book: {b["title"]} (Kindle USD 9.99) — search it on Amazon or visit zone-digital.com')
+    amazon = f"https://www.amazon.com/dp/{b['kindle']}"
+    tags = " ".join(b["tags"].split()[:3] + ["#Shorts"])
+    desc = f"{hook}\n\n{p['cap']}\n\n{cta}\n{amazon}\n\n{tags}"
+    return title, desc
+
 def manifest():
     import datetime as dt
     start = dt.date.fromisoformat(CAL["start"])
