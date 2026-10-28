@@ -1,0 +1,327 @@
+{
+ "brand": {
+  "name": "ZONE DIGITAL",
+  "site": "zone-digital.com"
+ },
+ "cats": {
+  "ia": {
+   "label": "IA & TECH",
+   "color": [
+    61,
+    214,
+    245
+   ]
+  },
+  "cert": {
+   "label": "CERTIFICACIÓN",
+   "color": [
+    245,
+    184,
+    61
+   ]
+  },
+  "neg": {
+   "label": "NEGOCIOS",
+   "color": [
+    150,
+    130,
+    255
+   ]
+  },
+  "min": {
+   "label": "MINERÍA",
+   "color": [
+    232,
+    128,
+    66
+   ]
+  },
+  "st": {
+   "label": "START UPS",
+   "color": [
+    61,
+    220,
+    151
+   ]
+  }
+ },
+ "books": {
+  "pmp-es": {
+   "title": "La Ruta Maestra hacia la Certificación PMP",
+   "sub": "El plan que aprueba el PMP a la primera",
+   "lang": "es",
+   "cat": "cert",
+   "kindle": "B0DWPB9MML",
+   "page": "la-ruta-maestra-hacia-la-certificacion-pmp",
+   "tags": "#PMP #certificacionPMP #gestiondeproyectos #projectmanagement #PMI"
+  },
+  "pmp-en": {
+   "title": "The Master Path to PMP Certification",
+   "sub": "A practical guide for successful professionals",
+   "lang": "en",
+   "cat": "cert",
+   "kindle": "B0DWM13M4P",
+   "page": "the-master-path-to-pmp-certification",
+   "tags": "#PMP #PMPexam #projectmanagement #PMI #careergrowth"
+  },
+  "aws-es": {
+   "title": "AWS Solutions Architect Associate",
+   "sub": "Certifícate y transforma tu carrera en la nube",
+   "lang": "es",
+   "cat": "cert",
+   "kindle": "B0DWT8XXXD",
+   "paper": "B0F79WNWYM",
+   "page": "aws-solutions-architect-associate",
+   "tags": "#AWS #certificacionAWS #cloud #nube #SolutionsArchitect"
+  },
+  "aws-en": {
+   "title": "AWS Solutions Architect Associate",
+   "sub": "Get certified and transform your career in the cloud",
+   "lang": "en",
+   "cat": "cert",
+   "kindle": "B0DWTB2V3R",
+   "page": "aws-solutions-architect-associate-b0dwtb2v3r",
+   "tags": "#AWS #AWScertified #SAAC03 #cloudcomputing #techcareer"
+  },
+  "azure": {
+   "title": "Domina Azure y Certifícate Rápido",
+   "sub": "La guía total para aprobar el examen AZ-104",
+   "lang": "es",
+   "cat": "cert",
+   "kindle": "B0H4HS7VKJ",
+   "page": "domina-azure-y-certificate-rapido",
+   "tags": "#Azure #AZ104 #Microsoft #cloud #certificacion"
+  },
+  "gcp": {
+   "title": "Google Cloud Engineer",
+   "sub": "Guía completa para aprobar la certificación ACE",
+   "lang": "es",
+   "cat": "cert",
+   "kindle": "B0H4HPWHMG",
+   "page": "google-cloud-engineer",
+   "tags": "#GoogleCloud #GCP #cloudengineer #certificacion #nube"
+  },
+  "cfa-es": {
+   "title": "CFA: El Camino Certificado al Éxito Financiero Global",
+   "sub": "La guía definitiva para aprobar el examen más prestigioso",
+   "lang": "es",
+   "cat": "cert",
+   "kindle": "B0DWT17LCJ",
+   "page": "cfa-el-camino-certificado-al-exito-financiero-global",
+   "tags": "#CFA #finanzas #inversiones #certificacion #carrerafinanciera"
+  },
+  "cfa-en": {
+   "title": "CFA: The Certified Path to Global Financial Success",
+   "sub": "The ultimate guide to passing the world's most prestigious exam",
+   "lang": "en",
+   "cat": "cert",
+   "kindle": "B0DWQM4B7Z",
+   "page": "cfa-the-certified-path-to-global-financial-success",
+   "tags": "#CFA #CFAexam #finance #investing #financecareer"
+  },
+  "caio": {
+   "title": "Chief AI Officer",
+   "sub": "El nuevo líder de la empresa inteligente",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0GYZYK1G7",
+   "paper": "B0GZ3BRP2K",
+   "page": "chief-ai-officer",
+   "tags": "#ChiefAIOfficer #inteligenciaartificial #liderazgo #IA #transformaciondigital"
+  },
+  "ingia": {
+   "title": "El Ingeniero de IA",
+   "sub": "Apps GenAI de producción con LLMs, RAG y agentes",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0H47SQ4SK",
+   "page": "el-ingeniero-de-ia",
+   "tags": "#IA #IAGenerativa #LLM #RAG #agentesIA"
+  },
+  "loop": {
+   "title": "Loop Engineering",
+   "sub": "Bucles de agentes de IA que trabajan y mejoran por ti",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0H6RBJ8CL",
+   "page": "loop-engineering",
+   "tags": "#agentesIA #automatizacion #IA #productividad #inteligenciaartificial"
+  },
+  "mlops": {
+   "title": "El Ingeniero MLOps",
+   "sub": "Machine Learning en producción, confiable y rentable",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0H482Q8VW",
+   "page": "el-ingeniero-mlops",
+   "tags": "#MLOps #machinelearning #datascience #IA #ingenieria"
+  },
+  "arqcloud": {
+   "title": "El Manual del Arquitecto Cloud",
+   "sub": "Sistemas seguros, escalables y rentables",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0H47SNCWQ",
+   "page": "el-manual-del-arquitecto-cloud",
+   "tags": "#cloud #arquitecturacloud #AWS #Azure #FinOps"
+  },
+  "vibe": {
+   "title": "VIBE CODING",
+   "sub": "Build, ship and scale software with AI agents",
+   "lang": "en",
+   "cat": "ia",
+   "kindle": "B0H6RB9BQM",
+   "page": "vibe-coding",
+   "tags": "#vibecoding #AIagents #buildinpublic #coding #AI"
+  },
+  "wealth": {
+   "title": "The AI Digital Wealth Factory",
+   "sub": "Build, automate and monetize digital products with agentic AI",
+   "lang": "en",
+   "cat": "ia",
+   "kindle": "B0H1MQ27TL",
+   "page": "the-ai-digital-wealth-factory",
+   "tags": "#digitalproducts #AIagents #sidehustle #passiveincome #AI"
+  },
+  "growthos": {
+   "title": "The AI Growth Operating System",
+   "sub": "Agentic workflows, data foundations, new revenue engines",
+   "lang": "en",
+   "cat": "ia",
+   "kindle": "B0H2KJ15ZX",
+   "paper": "B0H2PWP6HX",
+   "page": "the-ai-growth-operating-system",
+   "tags": "#AIstrategy #leadership #growth #agenticAI #business"
+  },
+  "d2d": {
+   "title": "Data to Dollars",
+   "sub": "Convierte datos e IA en decisiones que generan dinero",
+   "lang": "es",
+   "cat": "neg",
+   "kindle": "B0H6RB7VXK",
+   "page": "data-to-dollars",
+   "tags": "#datos #IA #negocios #analitica #emprendimiento"
+  },
+  "iacrec": {
+   "title": "IA para Crecimiento y Ventas Exponenciales",
+   "sub": "Marketing, ventas y experiencia del cliente con IA",
+   "lang": "es",
+   "cat": "neg",
+   "kindle": "B0H6R4HYQK",
+   "page": "ia-para-crecimiento-y-ventas-exponenciales",
+   "tags": "#ventas #marketingdigital #IA #crecimiento #negocios"
+  },
+  "ceo": {
+   "title": "CEO Aumentado",
+   "sub": "Convierte la IA en estrategia y ventaja competitiva",
+   "lang": "es",
+   "cat": "neg",
+   "kindle": "B0GYTJ466Y",
+   "paper": "B0GZ316BHH",
+   "page": "ceo-aumentado",
+   "tags": "#liderazgo #CEO #IA #estrategia #productividad"
+  },
+  "mba": {
+   "title": "MBA Rediseñado",
+   "sub": "Aprende, lidera y triunfa con estrategias que funcionan hoy",
+   "lang": "es",
+   "cat": "neg",
+   "kindle": "B0F5QR9FNZ",
+   "paper": "B0F7FG4QZT",
+   "page": "mba-redisenado",
+   "tags": "#MBA #negocios #liderazgo #estrategia #carreraprofesional"
+  },
+  "startups": {
+   "title": "Liderando Start Ups del Futuro",
+   "sub": "Del primer cliente al crecimiento",
+   "lang": "es",
+   "cat": "st",
+   "kindle": "B08XHDW2P5",
+   "paper": "B08XL7ZG3H",
+   "page": "liderando-start-ups-del-futuro",
+   "tags": "#startups #emprendimiento #emprendedores #negocios #LATAM"
+  },
+  "twin": {
+   "title": "The Digital Twin Mine",
+   "sub": "AI, real-time data and operational intelligence in mining",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H381YN82",
+   "page": "the-digital-twin-mine",
+   "tags": "#mining #digitaltwin #mining40 #AI #Peru"
+  },
+  "cvsafety": {
+   "title": "Computer Vision for Mine Safety",
+   "sub": "Real-time AI eliminating dangerous moments in mining",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H63S13SL",
+   "page": "computer-vision-for-mine-safety",
+   "tags": "#mining #computervision #safety #AI #miningtechnology"
+  },
+  "space": {
+   "title": "Space Mining Engineering",
+   "sub": "The blueprint for off-world mining",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H4N9YHCQ",
+   "page": "space-mining-engineering",
+   "tags": "#spacemining #space #mining #Moon #asteroids"
+  },
+  "deepsea": {
+   "title": "Deep-Sea Mining 2030",
+   "sub": "Engineering, economics and ethics of the ocean floor",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H4NDH523",
+   "page": "deep-sea-mining-2030",
+   "tags": "#deepseamining #ocean #criticalminerals #mining #energytransition"
+  },
+  "mds": {
+   "title": "Maintenance Data Scientist",
+   "sub": "The career playbook for heavy industry's hybrid role",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H63XQQRJ",
+   "page": "maintenance-data-scientist",
+   "tags": "#datascience #maintenance #mining #careers #predictivemaintenance"
+  },
+  "genai-en": {
+   "title": "Master the Age of Generative AI",
+   "sub": "The ultimate guide for data scientists of the future",
+   "lang": "en",
+   "cat": "ia",
+   "kindle": "B0F5NTJ55Q",
+   "page": "master-the-age-of-generative-ai",
+   "tags": "#GenerativeAI #DataScience #AI #MachineLearning #LLM"
+  },
+  "mba-en": {
+   "title": "MBA Redesigned",
+   "sub": "Learn, lead and succeed with strategies that work today",
+   "lang": "en",
+   "cat": "neg",
+   "kindle": "B0F4ZMBB8W",
+   "page": "mba-redesigned",
+   "tags": "#MBA #leadership #business #strategy #career"
+  },
+  "solarch-en": {
+   "title": "Solutions Architecture for Technology Leaders",
+   "sub": "Design, scale and transform",
+   "lang": "en",
+   "cat": "neg",
+   "kindle": "B0F5QKYCJV",
+   "page": "solutions-architecture-for-technology-leaders",
+   "tags": "#SolutionsArchitecture #CloudArchitect #TechLeadership #SoftwareArchitecture #CTO"
+  },
+  "startups-en": {
+   "title": "Leading Start Ups of the Future",
+   "sub": "From first customer to growth",
+   "lang": "en",
+   "cat": "st",
+   "kindle": "B08XJV1222",
+   "paper": "B08XL7ZFCP",
+   "page": "leading-start-ups-of-the-future",
+   "tags": "#startups #entrepreneur #founder #business #growth"
+  }
+ }
+}

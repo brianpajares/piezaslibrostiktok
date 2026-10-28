@@ -1,0 +1,104 @@
+{
+ "2026-10-29": [
+  {
+   "time": "15:00",
+   "piece": "carousel_cfa-en_051"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_pmp-en_052"
+  }
+ ],
+ "2026-10-30": [
+  {
+   "time": "15:00",
+   "piece": "carousel_genai-en_053"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_aws-es_054"
+  }
+ ],
+ "2026-10-31": [
+  {
+   "time": "15:00",
+   "piece": "carousel_vibe_055"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_pmp-es_056"
+  }
+ ],
+ "2026-11-01": [
+  {
+   "time": "10:00",
+   "piece": "carousel_aws-en_001"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_cfa-en_002"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_genai-en_057"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_wealth_058"
+  }
+ ],
+ "2026-11-02": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-es_003"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_wealth_004"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_aws-es_059"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_caio_060"
+  }
+ ],
+ "2026-11-03": [
+  {
+   "time": "10:00",
+   "piece": "reel_aws-en_005"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_vibe_006"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_cfa-es_061"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_growthos_062"
+  }
+ ],
+ "2026-11-04": [
+  {
+   "time": "10:00",
+   "piece": "carousel_pmp-es_007"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_cfa-en_008"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_pmp-en_063"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_vibe_064"
+  }
+ ]
+}

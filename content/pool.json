@@ -1,0 +1,2352 @@
+{
+ "pieces": [
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "5 AWS services in one line each",
+     "b": "Core of the SAA exam."
+    },
+    {
+     "h": "Amazon EC2",
+     "b": "Virtual servers you control."
+    },
+    {
+     "h": "Amazon S3",
+     "b": "Object storage for files of any size."
+    },
+    {
+     "h": "Amazon RDS",
+     "b": "Managed relational databases."
+    },
+    {
+     "h": "AWS Lambda",
+     "b": "Run code without managing servers."
+    }
+   ],
+   "cap": "Save this for your AWS study plan.",
+   "id": "carousel_aws-en_001",
+   "origin": "b3",
+   "pref_date": "2026-11-01"
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "Your CFA exam week",
+   "points": [
+    "One last timed mock",
+    "Review your error log",
+    "Rest before exam day"
+   ],
+   "cap": "Finish strong and walk in calm.",
+   "id": "reel_cfa-en_002",
+   "origin": "b3",
+   "pref_date": "2026-11-01"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-es",
+   "hook": "Liderazgo servicial en 15 segundos",
+   "points": [
+    "Elimina impedimentos",
+    "Acompaña, no ordena",
+    "Protege el foco del equipo"
+   ],
+   "cap": "La mentalidad detrás de muchas preguntas del PMP.",
+   "id": "reel_pmp-es_003",
+   "origin": "b3",
+   "pref_date": "2026-11-02"
+  },
+  {
+   "fmt": "carousel",
+   "book": "wealth",
+   "slides": [
+    {
+     "h": "Your AI agent production line",
+     "b": "From idea to product."
+    },
+    {
+     "h": "Research agent",
+     "b": "Finds the problem and the audience."
+    },
+    {
+     "h": "Builder agent",
+     "b": "Drafts the product."
+    },
+    {
+     "h": "Editor agent",
+     "b": "Checks quality and clarity."
+    },
+    {
+     "h": "You",
+     "b": "Decide, refine and launch."
+    }
+   ],
+   "cap": "Build like a team of five, working alone.",
+   "id": "carousel_wealth_004",
+   "origin": "b3",
+   "pref_date": "2026-11-02"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "SQS vs. SNS",
+   "points": [
+    "SQS: a queue, one consumer pulls",
+    "SNS: publish to many subscribers",
+    "Together: fan-out pattern"
+   ],
+   "cap": "Decoupling questions get easy once you see the difference.",
+   "id": "reel_aws-en_005",
+   "origin": "b3",
+   "pref_date": "2026-11-03"
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "How senior devs use AI agents",
+   "points": [
+    "Delegate the boilerplate",
+    "Keep the architecture decisions",
+    "Review like a tech lead"
+   ],
+   "cap": "AI multiplies good engineers. It doesn't replace judgment.",
+   "id": "reel_vibe_006",
+   "origin": "b3",
+   "pref_date": "2026-11-03"
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-es",
+   "slides": [
+    {
+     "h": "Pregunta PMP: dos expertos en desacuerdo",
+     "b": "Situacional, como el examen real."
+    },
+    {
+     "h": "El caso",
+     "b": "Dos miembros senior discrepan sobre el enfoque técnico y el trabajo se ha frenado."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Decidir tú solo\nB) Escalar al sponsor\nC) Facilitar una conversación para que lleguen a un acuerdo\nD) Esperar a que se resuelva"
+    },
+    {
+     "h": "Respuesta: C",
+     "b": "Reúnelos y facilita una solución colaborativa."
+    },
+    {
+     "h": "Por qué",
+     "b": "El PMP prioriza colaborar y resolver antes de escalar."
+    }
+   ],
+   "cap": "¿Cuál elegiste? Comenta 👇",
+   "id": "carousel_pmp-es_007",
+   "origin": "b3",
+   "pref_date": "2026-11-04"
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "Mean vs. median in finance",
+   "points": [
+    "The mean is pulled by outliers",
+    "The median resists extreme values",
+    "Know which one the question needs"
+   ],
+   "cap": "A basic concept that shows up again and again.",
+   "id": "reel_cfa-en_008",
+   "origin": "b3",
+   "pref_date": "2026-11-04"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-es",
+   "hook": "Tu carrera cloud empieza aquí",
+   "points": [
+    "Primero el nivel Associate",
+    "Laboratorios cada semana",
+    "Un proyecto propio para mostrar"
+   ],
+   "cap": "La certificación que abre puertas en cloud en toda LATAM.",
+   "id": "reel_aws-es_009",
+   "origin": "b3",
+   "pref_date": "2026-11-05"
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "Vibe coding security basics",
+   "points": [
+    "Never paste secrets in prompts",
+    "Check dependencies",
+    "Validate every input"
+   ],
+   "cap": "Fast is good. Safe is better.",
+   "id": "reel_vibe_010",
+   "origin": "b3",
+   "pref_date": "2026-11-05"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "Predictive vs. agile vs. hybrid",
+   "points": [
+    "Predictive: scope fixed up front",
+    "Agile: value in short iterations",
+    "Hybrid: mix both where it fits"
+   ],
+   "cap": "Know when each approach fits and the exam gets much easier.",
+   "id": "reel_pmp-en_011",
+   "origin": "b3",
+   "pref_date": "2026-11-06"
+  },
+  {
+   "fmt": "carousel",
+   "book": "genai-en",
+   "slides": [
+    {
+     "h": "5 GenAI terms in plain English",
+     "b": "No jargon."
+    },
+    {
+     "h": "Token",
+     "b": "A piece of text the model reads and writes."
+    },
+    {
+     "h": "Embedding",
+     "b": "Numbers that capture meaning, used for search."
+    },
+    {
+     "h": "Context window",
+     "b": "How much text the model can consider at once."
+    },
+    {
+     "h": "Agent",
+     "b": "A model that uses tools to complete a task."
+    }
+   ],
+   "cap": "Save this for later.",
+   "id": "carousel_genai-en_012",
+   "origin": "b3",
+   "pref_date": "2026-11-06"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "S3 storage classes in 15 seconds",
+   "points": [
+    "Standard: frequent access",
+    "Infrequent Access: cheaper, less use",
+    "Glacier: archive, lowest cost"
+   ],
+   "cap": "Pick the right class and you save money in the exam and in real life.",
+   "id": "reel_aws-en_013",
+   "origin": "b3",
+   "pref_date": "2026-11-07"
+  },
+  {
+   "fmt": "carousel",
+   "book": "cfa-en",
+   "slides": [
+    {
+     "h": "CFA concept: mean vs. median",
+     "b": "Quick check."
+    },
+    {
+     "h": "The question",
+     "b": "Which measure of central tendency is most affected by extreme values?"
+    },
+    {
+     "h": "Options",
+     "b": "A) Median\nB) Mode\nC) Arithmetic mean"
+    },
+    {
+     "h": "Answer: C",
+     "b": "The arithmetic mean uses every value, so outliers pull it strongly."
+    },
+    {
+     "h": "Why it matters",
+     "b": "Return data often has outliers. Choose the measure carefully."
+    }
+   ],
+   "cap": "Did you get it right? 👇",
+   "id": "carousel_cfa-en_014",
+   "origin": "b3",
+   "pref_date": "2026-11-07"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-es",
+   "hook": "PMP trabajando a tiempo completo",
+   "points": [
+    "Una hora enfocada al día",
+    "Preguntas en tus traslados",
+    "Un simulacro cada fin de semana"
+   ],
+   "cap": "No necesitas meses libres. Necesitas un sistema.",
+   "id": "reel_pmp-es_015",
+   "origin": "b3",
+   "pref_date": "2026-11-08"
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "From idea to deployed app",
+   "points": [
+    "Write a one-page spec",
+    "Build in small loops",
+    "Deploy, measure, iterate"
+   ],
+   "cap": "The professional loop behind shipping with AI.",
+   "id": "reel_vibe_016",
+   "origin": "b3",
+   "pref_date": "2026-11-08"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "Your cloud career starts here",
+   "points": [
+    "Associate level first",
+    "Hands-on labs every week",
+    "Build a small project to show"
+   ],
+   "cap": "The AWS Solutions Architect Associate is the classic first step.",
+   "id": "reel_aws-en_017",
+   "origin": "b3",
+   "pref_date": "2026-11-09"
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "Why AI hallucinates",
+   "points": [
+    "It predicts likely text",
+    "It may not have the facts",
+    "Grounding and evaluation help"
+   ],
+   "cap": "Understanding the limits is part of mastering GenAI.",
+   "id": "reel_genai-en_018",
+   "origin": "b3",
+   "pref_date": "2026-11-09"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "Servant leadership in 15 seconds",
+   "points": [
+    "Remove impediments",
+    "Coach, don't command",
+    "Protect the team's focus"
+   ],
+   "cap": "The mindset behind many PMP questions, explained fast.",
+   "id": "reel_pmp-en_019",
+   "origin": "b3",
+   "pref_date": "2026-11-10"
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "AI agents as your production team",
+   "points": [
+    "Research agent",
+    "Writing agent",
+    "Review agent"
+   ],
+   "cap": "Build faster without hiring a team.",
+   "id": "reel_wealth_020",
+   "origin": "b3",
+   "pref_date": "2026-11-10"
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "AWS exam question: cheapest static website",
+     "b": "Answer before you swipe."
+    },
+    {
+     "h": "The scenario",
+     "b": "You need to host a static marketing website with the lowest cost and no servers to manage."
+    },
+    {
+     "h": "Options",
+     "b": "A) EC2 instance with a web server\nB) Amazon S3 static website hosting\nC) Amazon RDS\nD) Amazon EBS volume"
+    },
+    {
+     "h": "Answer: B",
+     "b": "S3 can host static websites directly. Add CloudFront for global speed."
+    },
+    {
+     "h": "Exam rule",
+     "b": "Static content + low cost + no servers = think S3."
+    }
+   ],
+   "cap": "Did you get it right? 👇",
+   "id": "carousel_aws-en_021",
+   "origin": "b3",
+   "pref_date": "2026-11-11"
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "What is a foundation model?",
+   "points": [
+    "Pretrained on huge datasets",
+    "Adapted to many tasks",
+    "The base of today's GenAI"
+   ],
+   "cap": "The concept behind every modern AI tool, explained simply.",
+   "id": "reel_genai-en_022",
+   "origin": "b3",
+   "pref_date": "2026-11-11"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "3 signs you're ready for the PMP",
+   "points": [
+    "You score well on full timed mocks",
+    "You can explain why wrong answers are wrong",
+    "You finish with time to spare"
+   ],
+   "cap": "Not sure when to book your exam? Check these three signs first.",
+   "id": "reel_pmp-en_023",
+   "origin": "b3",
+   "pref_date": "2026-11-12"
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-es",
+   "hook": "El CFA en 15 segundos",
+   "points": [
+    "Tres niveles",
+    "Ética en todos los niveles",
+    "Análisis de inversiones a fondo"
+   ],
+   "cap": "Qué es el programa CFA y por qué lo valoran los empleadores.",
+   "id": "reel_cfa-es_024",
+   "origin": "b3",
+   "pref_date": "2026-11-12"
+  },
+  {
+   "fmt": "carousel",
+   "book": "vibe",
+   "slides": [
+    {
+     "h": "The vibe coding loop",
+     "b": "How pros build with AI agents."
+    },
+    {
+     "h": "1. Spec",
+     "b": "Write what the feature must do and how you'll test it."
+    },
+    {
+     "h": "2. Build",
+     "b": "Let the agent write the code in small steps."
+    },
+    {
+     "h": "3. Verify",
+     "b": "Run the tests. Read the diff."
+    },
+    {
+     "h": "4. Ship",
+     "b": "Deploy, measure, repeat."
+    }
+   ],
+   "cap": "Save this loop for your next project.",
+   "id": "carousel_vibe_025",
+   "origin": "b3",
+   "pref_date": "2026-11-13"
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "90 days to your first AI win",
+   "points": [
+    "Pick one revenue process",
+    "Automate one workflow",
+    "Measure and scale"
+   ],
+   "cap": "A practical starting plan for leadership teams.",
+   "id": "reel_growthos_026",
+   "origin": "b3",
+   "pref_date": "2026-11-13"
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-es",
+   "slides": [
+    {
+     "h": "5 términos del PMP que debes dominar",
+     "b": "Explicados de forma simple."
+    },
+    {
+     "h": "Interesado",
+     "b": "Cualquiera que afecta o es afectado por el proyecto."
+    },
+    {
+     "h": "Alcance",
+     "b": "El trabajo necesario para entregar el resultado. Nada más."
+    },
+    {
+     "h": "Backlog",
+     "b": "Lista ordenada de trabajo de un equipo ágil."
+    },
+    {
+     "h": "Líder servicial",
+     "b": "Quita obstáculos y apoya al equipo."
+    }
+   ],
+   "cap": "Guárdalo para tu repaso del PMP.",
+   "id": "carousel_pmp-es_027",
+   "origin": "b3",
+   "pref_date": "2026-11-14"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-es",
+   "hook": "Zona de disponibilidad vs. Región",
+   "points": [
+    "Región: un área geográfica",
+    "AZ: centros de datos aislados",
+    "Multi-AZ = alta disponibilidad"
+   ],
+   "cap": "Uno de los conceptos más evaluados en el examen de AWS.",
+   "id": "reel_aws-es_028",
+   "origin": "b3",
+   "pref_date": "2026-11-14"
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Digital products vs. services",
+   "points": [
+    "Services: paid per hour",
+    "Products: built once, sold many times",
+    "Combine both to grow"
+   ],
+   "cap": "How experts escape the hourly trap.",
+   "id": "reel_wealth_029",
+   "origin": "b3",
+   "pref_date": "2026-11-15"
+  },
+  {
+   "fmt": "carousel",
+   "book": "ingia",
+   "slides": [
+    {
+     "h": "5 términos de IA generativa",
+     "b": "Explicados sin jerga."
+    },
+    {
+     "h": "Token",
+     "b": "Un fragmento de texto que el modelo lee y escribe."
+    },
+    {
+     "h": "Embedding",
+     "b": "Números que capturan significado, útiles para buscar."
+    },
+    {
+     "h": "Ventana de contexto",
+     "b": "Cuánto texto puede considerar el modelo a la vez."
+    },
+    {
+     "h": "Agente",
+     "b": "Un modelo que usa herramientas para completar tareas."
+    }
+   ],
+   "cap": "Guárdalo para después.",
+   "id": "carousel_ingia_030",
+   "origin": "b3",
+   "pref_date": "2026-11-15"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "Studying for the PMP with a full-time job",
+   "points": [
+    "One focused hour a day",
+    "Questions on your commute",
+    "Full mock every weekend"
+   ],
+   "cap": "You don't need months off. You need a system.",
+   "id": "reel_pmp-en_031",
+   "origin": "b3",
+   "pref_date": "2026-11-16"
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "AWS exam question: speed up global content",
+     "b": "Performance for users worldwide."
+    },
+    {
+     "h": "The scenario",
+     "b": "Users in Europe, Asia and Latin America load images slowly from one region."
+    },
+    {
+     "h": "Options",
+     "b": "A) Bigger EC2 instances\nB) Amazon CloudFront\nC) More EBS volumes\nD) A second VPC"
+    },
+    {
+     "h": "Answer: B",
+     "b": "CloudFront caches content at edge locations close to users."
+    },
+    {
+     "h": "Exam rule",
+     "b": "Global users + static content = CDN, so CloudFront."
+    }
+   ],
+   "cap": "Comment your answer 👇",
+   "id": "carousel_aws-en_032",
+   "origin": "b3",
+   "pref_date": "2026-11-16"
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "Why Ethics decides your CFA result",
+   "points": [
+    "It appears at every level",
+    "Questions are subtle",
+    "Early, repeated practice wins"
+   ],
+   "cap": "Treat Ethics as a core subject, not a final review.",
+   "id": "reel_cfa-en_033",
+   "origin": "b3",
+   "pref_date": "2026-11-17"
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "AI agents for non-developers",
+   "points": [
+    "Describe the problem clearly",
+    "Let agents draft the app",
+    "Learn enough to review it"
+   ],
+   "cap": "You can build real tools without being a full-time developer.",
+   "id": "reel_vibe_034",
+   "origin": "b3",
+   "pref_date": "2026-11-17"
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-en",
+   "slides": [
+    {
+     "h": "5 PMP terms you must know",
+     "b": "Explained in plain English."
+    },
+    {
+     "h": "Stakeholder",
+     "b": "Anyone affected by or able to affect the project."
+    },
+    {
+     "h": "Scope",
+     "b": "The work required to deliver the result. Nothing more."
+    },
+    {
+     "h": "Backlog",
+     "b": "An ordered list of work for an agile team."
+    },
+    {
+     "h": "Servant leader",
+     "b": "A leader who removes obstacles and supports the team."
+    }
+   ],
+   "cap": "Save this for your PMP review.",
+   "id": "carousel_pmp-en_035",
+   "origin": "b3",
+   "pref_date": "2026-11-18"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "The 4 domains of AWS SAA",
+   "points": [
+    "Secure architectures",
+    "Resilient architectures",
+    "High-performing and cost-optimized"
+   ],
+   "cap": "Know what the Solutions Architect Associate exam really measures.",
+   "id": "reel_aws-en_036",
+   "origin": "b3",
+   "pref_date": "2026-11-18"
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-es",
+   "hook": "CFA trabajando a tiempo completo",
+   "points": [
+    "Horario semanal fijo",
+    "Preguntas todos los días",
+    "Simulacros en las últimas semanas"
+   ],
+   "cap": "Cómo los profesionales encajan el CFA en su vida real.",
+   "id": "reel_cfa-es_037",
+   "origin": "b3",
+   "pref_date": "2026-11-19"
+  },
+  {
+   "fmt": "reel",
+   "book": "ingia",
+   "hook": "De usuario a creador de IA",
+   "points": [
+    "Aprende los fundamentos",
+    "Construye proyectos reales",
+    "Muestra tu trabajo"
+   ],
+   "cap": "La ruta para pasar de usar IA a construir con IA.",
+   "id": "reel_ingia_038",
+   "origin": "b3",
+   "pref_date": "2026-11-19"
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-es",
+   "slides": [
+    {
+     "h": "Pregunta PMP: ocurrió un riesgo identificado",
+     "b": "Responde antes de deslizar."
+    },
+    {
+     "h": "El caso",
+     "b": "Un riesgo que estaba en el registro de riesgos ocurre durante la ejecución."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Implementar la respuesta planificada\nB) Reescribir el acta del proyecto\nC) Reunión de emergencia con el sponsor\nD) Ignorarlo hasta la próxima revisión"
+    },
+    {
+     "h": "Respuesta: A",
+     "b": "Usa la respuesta que ya planificaste. Para eso existe el registro."
+    },
+    {
+     "h": "Tip de examen",
+     "b": "Riesgo planificado que ocurre = ejecutar la respuesta planificada."
+    }
+   ],
+   "cap": "¿Acertaste? 👇",
+   "id": "carousel_pmp-es_039",
+   "origin": "b3",
+   "pref_date": "2026-11-20"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "3 AWS services every architect must know",
+   "points": [
+    "Amazon S3 for storage",
+    "Amazon EC2 for compute",
+    "Amazon VPC for networking"
+   ],
+   "cap": "Master the core first. Everything else builds on it.",
+   "id": "reel_aws-en_040",
+   "origin": "b3",
+   "pref_date": "2026-11-20"
+  },
+  {
+   "fmt": "carousel",
+   "book": "growthos",
+   "slides": [
+    {
+     "h": "The AI growth audit",
+     "b": "4 questions for leadership teams."
+    },
+    {
+     "h": "Revenue",
+     "b": "Which process most directly drives revenue?"
+    },
+    {
+     "h": "Data",
+     "b": "Is the data for that process clean and accessible?"
+    },
+    {
+     "h": "Workflow",
+     "b": "Which steps could an AI agent handle today?"
+    },
+    {
+     "h": "Owner",
+     "b": "Who is accountable for the result?"
+    }
+   ],
+   "cap": "Run this audit with your team this week.",
+   "id": "carousel_growthos_041",
+   "origin": "b3",
+   "pref_date": "2026-11-21"
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Turn one skill into a digital product",
+   "points": [
+    "Find a problem people pay for",
+    "Package your method",
+    "Sell it worldwide"
+   ],
+   "cap": "Your knowledge is worth more than you think.",
+   "id": "reel_wealth_042",
+   "origin": "b3",
+   "pref_date": "2026-11-21"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "What the PMP certification can do for you",
+   "points": [
+    "A globally recognized credential",
+    "A common language with any team",
+    "Proof you can lead projects"
+   ],
+   "cap": "One certification, recognized by employers around the world.",
+   "id": "reel_pmp-en_043",
+   "origin": "b3",
+   "pref_date": "2026-11-22"
+  },
+  {
+   "fmt": "carousel",
+   "book": "caio",
+   "slides": [
+    {
+     "h": "Marco de gobernanza de IA en 4 pasos",
+     "b": "Para empresas que quieren escalar la IA."
+    },
+    {
+     "h": "1. Inventario",
+     "b": "Qué IA se usa hoy y para qué."
+    },
+    {
+     "h": "2. Reglas",
+     "b": "Qué datos se pueden usar y cómo."
+    },
+    {
+     "h": "3. Responsables",
+     "b": "Quién aprueba y quién responde."
+    },
+    {
+     "h": "4. Monitoreo",
+     "b": "Medir resultados y riesgos de forma continua."
+    }
+   ],
+   "cap": "Guárdalo para tu próximo comité.",
+   "id": "carousel_caio_044",
+   "origin": "b3",
+   "pref_date": "2026-11-22"
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "Fine-tuning vs. RAG",
+   "points": [
+    "RAG: add fresh knowledge",
+    "Fine-tuning: change behavior and style",
+    "Many teams start with RAG"
+   ],
+   "cap": "Choose the right tool for the job.",
+   "id": "reel_genai-en_045",
+   "origin": "b3",
+   "pref_date": "2026-11-23"
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "Stop hardcoding AWS keys",
+   "points": [
+    "Use IAM roles for EC2 and Lambda",
+    "Grant least privilege",
+    "Rotate and audit access"
+   ],
+   "cap": "Security questions on the exam often come down to this.",
+   "id": "reel_aws-en_046",
+   "origin": "b3",
+   "pref_date": "2026-11-23"
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-es",
+   "hook": "El PMP no se aprueba memorizando",
+   "points": [
+    "Evalúa criterio en escenarios reales",
+    "Ágil e híbrido pesan mucho",
+    "Practicar vale más que releer"
+   ],
+   "cap": "La mayoría estudia mal para el PMP. Así funciona de verdad.",
+   "id": "reel_pmp-es_047",
+   "origin": "b3",
+   "pref_date": "2026-11-24"
+  },
+  {
+   "fmt": "carousel",
+   "book": "ingia",
+   "slides": [
+    {
+     "h": "Prompting en 4 pasos",
+     "b": "Mejores resultados desde hoy."
+    },
+    {
+     "h": "Rol",
+     "b": "Dile al modelo qué papel cumple."
+    },
+    {
+     "h": "Contexto",
+     "b": "Dale la información que necesita."
+    },
+    {
+     "h": "Ejemplos",
+     "b": "Muestra cómo es una buena respuesta."
+    },
+    {
+     "h": "Formato",
+     "b": "Indica exactamente cómo debe responder."
+    }
+   ],
+   "cap": "Pruébalo en tu próximo prompt.",
+   "id": "carousel_ingia_048",
+   "origin": "b3",
+   "pref_date": "2026-11-24"
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "Where AI creates revenue first",
+   "points": [
+    "Sales prioritization",
+    "Personalized marketing",
+    "Customer service at scale"
+   ],
+   "cap": "Start where AI touches revenue directly.",
+   "id": "reel_growthos_049",
+   "origin": "b3",
+   "pref_date": "2026-11-25"
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "Qué hace un Chief AI Officer",
+   "points": [
+    "Define la estrategia de IA",
+    "Gobierna riesgos y datos",
+    "Lleva pilotos a producción"
+   ],
+   "cap": "El rol que conecta la IA con resultados de negocio.",
+   "id": "reel_caio_050",
+   "origin": "b3",
+   "pref_date": "2026-11-25"
+  },
+  {
+   "fmt": "carousel",
+   "book": "cfa-en",
+   "slides": [
+    {
+     "h": "5 habits of CFA charterholders",
+     "b": "What successful candidates do differently."
+    },
+    {
+     "h": "Consistency",
+     "b": "Study a little every day instead of cramming."
+    },
+    {
+     "h": "Practice",
+     "b": "Questions from the first week."
+    },
+    {
+     "h": "Ethics",
+     "b": "Reviewed early and often."
+    },
+    {
+     "h": "Mocks",
+     "b": "Full timed exams before the real one."
+    }
+   ],
+   "cap": "Save this for your study plan.",
+   "id": "carousel_cfa-en_051",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "The PMP mistake that costs the most points",
+   "points": [
+    "Escalating too early",
+    "Instead: analyze, then collaborate",
+    "Escalate only when needed"
+   ],
+   "cap": "The exam rewards project managers who handle problems first.",
+   "id": "reel_pmp-en_052",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "genai-en",
+   "slides": [
+    {
+     "h": "The GenAI stack in 4 layers",
+     "b": "What every data scientist should know."
+    },
+    {
+     "h": "1. Models",
+     "b": "Foundation models for text, images and code."
+    },
+    {
+     "h": "2. Data",
+     "b": "Your documents, databases and embeddings."
+    },
+    {
+     "h": "3. Orchestration",
+     "b": "Prompts, retrieval and agents that connect it all."
+    },
+    {
+     "h": "4. Evaluation",
+     "b": "Quality, cost and safety checks before shipping."
+    }
+   ],
+   "cap": "Save this mental map.",
+   "id": "carousel_genai-en_053",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-es",
+   "hook": "Deja de poner llaves de AWS en el código",
+   "points": [
+    "Usa roles de IAM",
+    "Aplica mínimo privilegio",
+    "Rota y audita accesos"
+   ],
+   "cap": "Muchas preguntas de seguridad se resuelven con esto.",
+   "id": "reel_aws-es_054",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "vibe",
+   "slides": [
+    {
+     "h": "Vibe coding red flags",
+     "b": "Stop and review when you see these."
+    },
+    {
+     "h": "Huge diffs",
+     "b": "Ask for smaller changes."
+    },
+    {
+     "h": "No tests",
+     "b": "Ask the agent to write them first."
+    },
+    {
+     "h": "Secrets in code",
+     "b": "Move them to environment variables."
+    },
+    {
+     "h": "Code you can't explain",
+     "b": "Read it before you ship it."
+    }
+   ],
+   "cap": "Save this before your next release.",
+   "id": "carousel_vibe_055",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-es",
+   "hook": "Predictivo, ágil o híbrido",
+   "points": [
+    "Predictivo: alcance definido al inicio",
+    "Ágil: valor en iteraciones cortas",
+    "Híbrido: combina según el caso"
+   ],
+   "cap": "Si sabes cuándo usar cada enfoque, el examen se vuelve más fácil.",
+   "id": "reel_pmp-es_056",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "RAG in 15 seconds",
+   "points": [
+    "Retrieve relevant documents",
+    "Add them to the prompt",
+    "Get grounded answers"
+   ],
+   "cap": "How companies connect AI to their own knowledge.",
+   "id": "reel_genai-en_057",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Automate your digital product business",
+   "points": [
+    "Automated delivery",
+    "Automated follow-up",
+    "Automated content"
+   ],
+   "cap": "Spend your time creating, not repeating tasks.",
+   "id": "reel_wealth_058",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-es",
+   "slides": [
+    {
+     "h": "Pregunta AWS: dar acceso de EC2 a S3",
+     "b": "Seguridad a la manera de AWS."
+    },
+    {
+     "h": "El caso",
+     "b": "Una aplicación en EC2 debe leer archivos de un bucket S3 de forma segura."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Llaves de acceso en el código\nB) Un rol de IAM en la instancia\nC) Llaves del usuario root\nD) Bucket público"
+    },
+    {
+     "h": "Respuesta: B",
+     "b": "El rol de IAM da credenciales temporales con mínimo privilegio."
+    },
+    {
+     "h": "Regla del examen",
+     "b": "Nunca llaves en el código. Usa roles."
+    }
+   ],
+   "cap": "Comenta tu respuesta 👇",
+   "id": "carousel_aws-es_059",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "La IA es un tema de directorio",
+   "points": [
+    "Impacta ingresos y riesgos",
+    "Exige reglas claras",
+    "Necesita un responsable"
+   ],
+   "cap": "Si la IA es estratégica, alguien debe liderarla al más alto nivel.",
+   "id": "reel_caio_060",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-es",
+   "hook": "3 errores al estudiar el CFA",
+   "points": [
+    "Solo leer, sin practicar",
+    "Dejar Ética para el final",
+    "No hacer simulacros cronometrados"
+   ],
+   "cap": "Evítalos y ya vas por delante de muchos candidatos.",
+   "id": "reel_cfa-es_061",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "The leader's AI checklist",
+   "points": [
+    "One metric per initiative",
+    "Data ready before models",
+    "A team that owns results"
+   ],
+   "cap": "What executives should ask before funding AI.",
+   "id": "reel_growthos_062",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-en",
+   "slides": [
+    {
+     "h": "PMP question: an identified risk just happened",
+     "b": "Answer before you swipe."
+    },
+    {
+     "h": "The scenario",
+     "b": "A risk listed in the risk register occurs during execution."
+    },
+    {
+     "h": "Options",
+     "b": "A) Implement the planned risk response\nB) Rewrite the project charter\nC) Call an emergency meeting with the sponsor\nD) Ignore it until the next review"
+    },
+    {
+     "h": "Answer: A",
+     "b": "Use the response you already planned. That's why the register exists."
+    },
+    {
+     "h": "Exam tip",
+     "b": "Planned risk + risk occurs = execute the planned response."
+    }
+   ],
+   "cap": "Did you get it right? 👇",
+   "id": "carousel_pmp-en_063",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "Ship an MVP this weekend",
+   "points": [
+    "Day 1: spec and core feature",
+    "Day 2: tests, polish, deploy",
+    "Then talk to real users"
+   ],
+   "cap": "A practical plan for building with AI agents.",
+   "id": "reel_vibe_064",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "ingia",
+   "hook": "RAG en 15 segundos",
+   "points": [
+    "Busca documentos relevantes",
+    "Los añade al contexto",
+    "Responde con tus datos"
+   ],
+   "cap": "Cómo las empresas conectan la IA con su propio conocimiento.",
+   "id": "reel_ingia_065",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Your first digital product in 30 days",
+   "points": [
+    "Week 1: problem and audience",
+    "Weeks 2-3: build with agents",
+    "Week 4: launch and learn"
+   ],
+   "cap": "A realistic plan to go from idea to first sale.",
+   "id": "reel_wealth_066",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-en",
+   "slides": [
+    {
+     "h": "Your 4-week PMP final sprint",
+     "b": "For candidates close to exam day."
+    },
+    {
+     "h": "Week 1",
+     "b": "One full mock to find your weak areas."
+    },
+    {
+     "h": "Week 2",
+     "b": "Targeted practice on those areas."
+    },
+    {
+     "h": "Week 3",
+     "b": "Second full mock, timed."
+    },
+    {
+     "h": "Week 4",
+     "b": "Error log review, rest, exam day."
+    }
+   ],
+   "cap": "Share this with someone booking their PMP.",
+   "id": "carousel_pmp-en_067",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "3 CFA study mistakes",
+   "points": [
+    "Only reading, never practicing",
+    "Leaving Ethics for last",
+    "Skipping timed mock exams"
+   ],
+   "cap": "Avoid these and you're already ahead of many candidates.",
+   "id": "reel_cfa-en_068",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "AWS exam question: give EC2 access to S3",
+     "b": "Security, the AWS way."
+    },
+    {
+     "h": "The scenario",
+     "b": "An application on EC2 must read objects from an S3 bucket securely."
+    },
+    {
+     "h": "Options",
+     "b": "A) Store access keys in the code\nB) Attach an IAM role to the instance\nC) Use the root user's keys\nD) Make the bucket public"
+    },
+    {
+     "h": "Answer: B",
+     "b": "An IAM role gives temporary credentials with least privilege."
+    },
+    {
+     "h": "Exam rule",
+     "b": "Never hardcode keys. Use roles."
+    }
+   ],
+   "cap": "Comment your answer 👇",
+   "id": "carousel_aws-en_069",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "ingia",
+   "hook": "Cómo evaluar una app con LLM",
+   "points": [
+    "Define qué es una buena respuesta",
+    "Prueba con casos reales",
+    "Mide costo y errores"
+   ],
+   "cap": "Una demo no es un producto. La evaluación sí lo hace.",
+   "id": "reel_ingia_070",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "The data scientist's GenAI toolkit",
+   "points": [
+    "Prompting and context",
+    "Embeddings and vector search",
+    "Evaluation and monitoring"
+   ],
+   "cap": "The skills that separate experiments from products.",
+   "id": "reel_genai-en_071",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "mba-en",
+   "hook": "Read a business like a CFO",
+   "points": [
+    "Revenue growth",
+    "Margins",
+    "Cash flow"
+   ],
+   "cap": "Three numbers that tell you most of the story.",
+   "id": "reel_mba-en_072",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "vibe",
+   "slides": [
+    {
+     "h": "AI coding: what to delegate",
+     "b": "And what to keep."
+    },
+    {
+     "h": "Delegate",
+     "b": "Boilerplate, tests, refactors, documentation."
+    },
+    {
+     "h": "Pair on",
+     "b": "New features and tricky bugs."
+    },
+    {
+     "h": "Keep",
+     "b": "Architecture, security decisions, final review."
+    },
+    {
+     "h": "Result",
+     "b": "Faster delivery without losing quality."
+    }
+   ],
+   "cap": "Where do you draw the line? 👇",
+   "id": "carousel_vibe_073",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "3 riesgos de usar IA sin gobernanza",
+   "points": [
+    "Fuga de datos sensibles",
+    "Decisiones sin trazabilidad",
+    "Inversión sin retorno"
+   ],
+   "cap": "La gobernanza no frena la IA: la hace escalable.",
+   "id": "reel_caio_074",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "gcp",
+   "hook": "Cloud Run vs. Compute Engine",
+   "points": [
+    "Cloud Run: contenedores sin servidores",
+    "Compute Engine: control total de VMs",
+    "Elige según cuánto quieras administrar"
+   ],
+   "cap": "Una comparación que aparece en el examen ACE.",
+   "id": "reel_gcp_075",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "solarch-en",
+   "hook": "How to present architecture to executives",
+   "points": [
+    "Start with the business goal",
+    "Show options and costs",
+    "Recommend one, explain why"
+   ],
+   "cap": "Technical leaders win by speaking the language of the business.",
+   "id": "reel_solarch-en_076",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "Data is the real AI advantage",
+   "points": [
+    "Models are available to everyone",
+    "Your data is unique",
+    "Clean data compounds"
+   ],
+   "cap": "Why your data foundation matters more than the model.",
+   "id": "reel_growthos_077",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "Who should take the CFA?",
+   "points": [
+    "Analysts and portfolio managers",
+    "Finance professionals going global",
+    "Anyone serious about investing"
+   ],
+   "cap": "Is the CFA right for your career? Start here.",
+   "id": "reel_cfa-en_078",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Pick a niche that pays",
+   "points": [
+    "A specific audience",
+    "A painful problem",
+    "A clear result"
+   ],
+   "cap": "The first decision that makes or breaks a digital product.",
+   "id": "reel_wealth_079",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "From curiosity to mastery",
+   "points": [
+    "Learn the fundamentals",
+    "Build real projects",
+    "Teach what you learn"
+   ],
+   "cap": "A simple path for the next generation of data scientists.",
+   "id": "reel_genai-en_080",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "The PMP is not a memory test",
+   "points": [
+    "It tests judgment in real scenarios",
+    "Agile and hybrid are a big part",
+    "Practice beats rereading"
+   ],
+   "cap": "Most candidates study the wrong way. Here's how the PMP actually works.",
+   "id": "reel_pmp-en_081",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "Habilidades del líder de IA",
+   "points": [
+    "Visión de negocio",
+    "Criterio técnico",
+    "Gestión del cambio"
+   ],
+   "cap": "El perfil que las empresas buscan para liderar la IA.",
+   "id": "reel_caio_082",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "AWS exam question: store session data",
+     "b": "For stateless web apps."
+    },
+    {
+     "h": "The scenario",
+     "b": "A web app behind a load balancer must share user session data across instances."
+    },
+    {
+     "h": "Options",
+     "b": "A) Instance store\nB) Amazon ElastiCache\nC) S3 Glacier\nD) EBS snapshots"
+    },
+    {
+     "h": "Answer: B",
+     "b": "An in-memory cache like ElastiCache shares session state quickly across instances."
+    },
+    {
+     "h": "Exam rule",
+     "b": "Stateless servers, shared state in a managed store."
+    }
+   ],
+   "cap": "Did you get it right? 👇",
+   "id": "carousel_aws-en_083",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "Studying for the CFA while working",
+   "points": [
+    "Fixed weekly schedule",
+    "Questions every day",
+    "Mock exams in the final weeks"
+   ],
+   "cap": "How working professionals fit the CFA into real life.",
+   "id": "reel_cfa-en_084",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "The prompt is not the product",
+   "points": [
+    "The spec defines the result",
+    "Tests define done",
+    "Reviews keep quality"
+   ],
+   "cap": "Professional vibe coding is engineering, not luck.",
+   "id": "reel_vibe_085",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "growthos",
+   "slides": [
+    {
+     "h": "AI use cases by function",
+     "b": "Where to start."
+    },
+    {
+     "h": "Sales",
+     "b": "Lead scoring and account research."
+    },
+    {
+     "h": "Marketing",
+     "b": "Personalized content at scale."
+    },
+    {
+     "h": "Service",
+     "b": "Answering common questions 24/7."
+    },
+    {
+     "h": "Operations",
+     "b": "Automating repetitive back-office work."
+    }
+   ],
+   "cap": "Which one would move your numbers first?",
+   "id": "carousel_growthos_086",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "mba-en",
+   "hook": "Lead a hybrid team well",
+   "points": [
+    "Clear goals, written down",
+    "Regular one-on-ones",
+    "Trust measured by results"
+   ],
+   "cap": "Modern leadership skills, without the classroom.",
+   "id": "reel_mba-en_087",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "Cómo priorizar casos de uso de IA",
+   "points": [
+    "Valor para el negocio",
+    "Datos disponibles",
+    "Riesgo controlable"
+   ],
+   "cap": "No todo caso de IA merece presupuesto.",
+   "id": "reel_caio_088",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "ingia",
+   "hook": "Qué hace un Ingeniero de IA",
+   "points": [
+    "Conecta modelos con sistemas reales",
+    "Construye RAG y agentes",
+    "Lleva todo a producción"
+   ],
+   "cap": "Uno de los roles más buscados en tecnología hoy.",
+   "id": "reel_ingia_089",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "Availability Zone vs. Region",
+   "points": [
+    "Region: a geographic area",
+    "AZ: isolated data centers inside it",
+    "Multi-AZ = high availability"
+   ],
+   "cap": "One of the most tested ideas on the AWS exam.",
+   "id": "reel_aws-en_090",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "Vibe coding without the chaos",
+   "points": [
+    "Plan before you prompt",
+    "Small changes, tested often",
+    "Review every diff"
+   ],
+   "cap": "Speed with AI agents only works with a system.",
+   "id": "reel_vibe_091",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "solarch-en",
+   "slides": [
+    {
+     "h": "The architecture decision record",
+     "b": "A habit of great technical leaders."
+    },
+    {
+     "h": "Context",
+     "b": "What problem are we solving and why now?"
+    },
+    {
+     "h": "Options",
+     "b": "What alternatives did we consider?"
+    },
+    {
+     "h": "Decision",
+     "b": "What we chose and the trade-offs."
+    },
+    {
+     "h": "Consequences",
+     "b": "What this means for cost, risk and the team."
+    }
+   ],
+   "cap": "Start writing ADRs this week.",
+   "id": "carousel_solarch-en_092",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "mba-en",
+   "hook": "Strategy in one sentence",
+   "points": [
+    "Where you compete",
+    "How you win",
+    "What you won't do"
+   ],
+   "cap": "The simplest test of any business strategy.",
+   "id": "reel_mba-en_093",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "caio",
+   "slides": [
+    {
+     "h": "Preguntas que todo directorio debe hacer sobre IA",
+     "b": "Antes de aprobar presupuesto."
+    },
+    {
+     "h": "Valor",
+     "b": "¿Qué métrica de negocio va a mover?"
+    },
+    {
+     "h": "Riesgo",
+     "b": "¿Qué datos usa y cómo se protegen?"
+    },
+    {
+     "h": "Escala",
+     "b": "¿Cómo pasa de piloto a operación?"
+    },
+    {
+     "h": "Responsable",
+     "b": "¿Quién rinde cuentas por el resultado?"
+    }
+   ],
+   "cap": "Comparte esto con tu equipo directivo.",
+   "id": "carousel_caio_094",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "ingia",
+   "hook": "Por qué la IA inventa respuestas",
+   "points": [
+    "Predice texto probable",
+    "Puede no tener el dato",
+    "RAG y evaluación ayudan"
+   ],
+   "cap": "Entender los límites es parte de dominar la IA generativa.",
+   "id": "reel_ingia_095",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "wealth",
+   "slides": [
+    {
+     "h": "Digital product pricing basics",
+     "b": "Simple rules that work."
+    },
+    {
+     "h": "Price the outcome",
+     "b": "Charge for the result, not the hours."
+    },
+    {
+     "h": "Start simple",
+     "b": "One product, one price."
+    },
+    {
+     "h": "Test",
+     "b": "Adjust after real sales data."
+    },
+    {
+     "h": "Bundle",
+     "b": "Combine products for higher value."
+    }
+   ],
+   "cap": "Save this for your launch.",
+   "id": "carousel_wealth_096",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "Why most AI projects stall",
+   "points": [
+    "No clear metric",
+    "Messy data",
+    "No owner"
+   ],
+   "cap": "Fix these and AI starts paying for itself.",
+   "id": "reel_growthos_097",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "azure",
+   "slides": [
+    {
+     "h": "Pregunta tipo AZ-104",
+     "b": "Responde antes de deslizar."
+    },
+    {
+     "h": "El caso",
+     "b": "Debes dar a un usuario permiso para administrar solo las máquinas virtuales de un grupo de recursos."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Rol de Propietario en la suscripción\nB) Rol de Colaborador de máquinas virtuales en ese grupo de recursos\nC) Cuenta de administrador global\nD) Compartir la contraseña de un administrador"
+    },
+    {
+     "h": "Respuesta: B",
+     "b": "Asigna el rol específico, en el alcance más pequeño posible."
+    },
+    {
+     "h": "Regla del examen",
+     "b": "Mínimo privilegio con RBAC: rol justo, alcance justo."
+    }
+   ],
+   "cap": "¿Acertaste? 👇",
+   "id": "carousel_azure_098",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "gcp",
+   "hook": "Google Cloud ACE en 15 segundos",
+   "points": [
+    "Despliega y gestiona recursos",
+    "Configura accesos y redes",
+    "Opera y monitorea soluciones"
+   ],
+   "cap": "Qué evalúa la certificación Associate Cloud Engineer.",
+   "id": "reel_gcp_099",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "3 GenAI projects for your portfolio",
+   "points": [
+    "A RAG assistant on real documents",
+    "An agent that completes a task",
+    "An evaluation dashboard"
+   ],
+   "cap": "Show companies you can build, not just use.",
+   "id": "reel_genai-en_100",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Sell to the world, not just your city",
+   "points": [
+    "Global marketplaces",
+    "English and Spanish versions",
+    "Digital delivery, zero shipping"
+   ],
+   "cap": "Digital products have no borders.",
+   "id": "reel_wealth_101",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "cfa-es",
+   "slides": [
+    {
+     "h": "Concepto CFA: media vs. mediana",
+     "b": "Repaso rápido."
+    },
+    {
+     "h": "La pregunta",
+     "b": "¿Qué medida de tendencia central se ve más afectada por valores extremos?"
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Mediana\nB) Moda\nC) Media aritmética"
+    },
+    {
+     "h": "Respuesta: C",
+     "b": "La media usa todos los valores, por eso los extremos la mueven mucho."
+    },
+    {
+     "h": "Por qué importa",
+     "b": "Los retornos suelen tener valores extremos. Elige bien la medida."
+    }
+   ],
+   "cap": "¿Acertaste? 👇",
+   "id": "carousel_cfa-es_102",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "solarch-en",
+   "hook": "Design for failure",
+   "points": [
+    "Assume components will fail",
+    "Remove single points of failure",
+    "Test recovery regularly"
+   ],
+   "cap": "Resilient systems are designed, not hoped for.",
+   "id": "reel_solarch-en_103",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-en",
+   "slides": [
+    {
+     "h": "PMP question: what do you do first?",
+     "b": "Situational, like the real exam."
+    },
+    {
+     "h": "The scenario",
+     "b": "Two senior team members disagree on the technical approach and work has slowed down."
+    },
+    {
+     "h": "Options",
+     "b": "A) Decide yourself\nB) Escalate to the sponsor\nC) Facilitate a discussion so they reach agreement\nD) Wait for it to resolve"
+    },
+    {
+     "h": "Answer: C",
+     "b": "Bring them together and facilitate a collaborative solution."
+    },
+    {
+     "h": "Why",
+     "b": "The PMP favors collaboration and problem solving before escalation."
+    }
+   ],
+   "cap": "What would you pick? Comment below 👇",
+   "id": "carousel_pmp-en_104",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "azure",
+   "hook": "AZ-104 en 15 segundos",
+   "points": [
+    "Administra identidades y accesos",
+    "Gestiona almacenamiento y cómputo",
+    "Configura redes y monitoreo"
+   ],
+   "cap": "Qué evalúa el examen de administrador de Azure.",
+   "id": "reel_azure_105",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "genai-en",
+   "slides": [
+    {
+     "h": "Prompt engineering basics",
+     "b": "Better results in 4 steps."
+    },
+    {
+     "h": "Role",
+     "b": "Tell the model who it is for this task."
+    },
+    {
+     "h": "Context",
+     "b": "Give it the information it needs."
+    },
+    {
+     "h": "Examples",
+     "b": "Show what a good answer looks like."
+    },
+    {
+     "h": "Format",
+     "b": "Say exactly how the output should look."
+    }
+   ],
+   "cap": "Try this on your next prompt.",
+   "id": "carousel_genai-en_106",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-es",
+   "hook": "Los 4 dominios del AWS SAA",
+   "points": [
+    "Arquitecturas seguras",
+    "Arquitecturas resilientes",
+    "Alto rendimiento y costo óptimo"
+   ],
+   "cap": "Lo que realmente mide el examen Solutions Architect Associate.",
+   "id": "reel_aws-es_107",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "The CFA in 15 seconds",
+   "points": [
+    "Three levels",
+    "Ethics at every level",
+    "Investment analysis in depth"
+   ],
+   "cap": "What the CFA program is and why employers value it.",
+   "id": "reel_cfa-en_108",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "azure",
+   "hook": "Por qué certificarte en Azure",
+   "points": [
+    "Muchas empresas usan Microsoft",
+    "Demanda de administradores cloud",
+    "Complementa tu perfil técnico"
+   ],
+   "cap": "Una certificación con mucho sentido en el mundo corporativo.",
+   "id": "reel_azure_109",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "ingia",
+   "slides": [
+    {
+     "h": "La pila de la IA generativa",
+     "b": "Lo que todo ingeniero de IA debe conocer."
+    },
+    {
+     "h": "1. Modelos",
+     "b": "Modelos base para texto, imágenes y código."
+    },
+    {
+     "h": "2. Datos",
+     "b": "Documentos, bases de datos y embeddings."
+    },
+    {
+     "h": "3. Orquestación",
+     "b": "Prompts, búsqueda y agentes que lo conectan todo."
+    },
+    {
+     "h": "4. Evaluación",
+     "b": "Calidad, costo y seguridad antes de lanzar."
+    }
+   ],
+   "cap": "Guarda este mapa mental.",
+   "id": "carousel_ingia_110",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "Agentic workflows explained",
+   "points": [
+    "AI plans the steps",
+    "Uses tools to act",
+    "People review the outcome"
+   ],
+   "cap": "The next step after chatbots.",
+   "id": "reel_growthos_111",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "wealth",
+   "slides": [
+    {
+     "h": "Where to sell digital products",
+     "b": "Global marketplaces to consider."
+    },
+    {
+     "h": "Amazon KDP",
+     "b": "Ebooks and paperbacks worldwide."
+    },
+    {
+     "h": "Course platforms",
+     "b": "Video courses for skills."
+    },
+    {
+     "h": "Template marketplaces",
+     "b": "Spreadsheets, Notion and design templates."
+    },
+    {
+     "h": "Your own site",
+     "b": "Highest margin, full control."
+    }
+   ],
+   "cap": "Which one fits your idea?",
+   "id": "carousel_wealth_112",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "solarch-en",
+   "hook": "Every architecture is a trade-off",
+   "points": [
+    "Cost vs. performance",
+    "Speed vs. reliability",
+    "Simplicity vs. flexibility"
+   ],
+   "cap": "Great architects make trade-offs explicit.",
+   "id": "reel_solarch-en_113",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-en",
+   "slides": [
+    {
+     "h": "Agile terms for the PMP",
+     "b": "Quick review in 4 slides."
+    },
+    {
+     "h": "Sprint",
+     "b": "A short, fixed time-box to deliver an increment."
+    },
+    {
+     "h": "Retrospective",
+     "b": "The team reviews how it works and agrees on improvements."
+    },
+    {
+     "h": "Definition of Done",
+     "b": "Shared criteria for when work is complete."
+    },
+    {
+     "h": "Product owner",
+     "b": "Represents the customer and orders the backlog."
+    }
+   ],
+   "cap": "Save this before your next study session.",
+   "id": "carousel_pmp-en_114",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "mba-en",
+   "hook": "3 business skills AI can't replace",
+   "points": [
+    "Judgment under uncertainty",
+    "Leading people",
+    "Negotiation"
+   ],
+   "cap": "Invest in the skills that grow in value with AI.",
+   "id": "reel_mba-en_115",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "AWS exam question: one message, many systems",
+     "b": "Messaging on AWS."
+    },
+    {
+     "h": "The scenario",
+     "b": "An order event must reach billing, shipping and analytics at the same time."
+    },
+    {
+     "h": "Options",
+     "b": "A) A single SQS queue\nB) Amazon SNS topic with subscribers\nC) An EBS volume\nD) A cron job"
+    },
+    {
+     "h": "Answer: B",
+     "b": "SNS publishes one message to many subscribers. Often combined with SQS queues."
+    },
+    {
+     "h": "Exam rule",
+     "b": "One-to-many = SNS. Buffer per consumer = SQS."
+    }
+   ],
+   "cap": "Did you pick B? 👇",
+   "id": "carousel_aws-en_116",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "De piloto a producción",
+   "points": [
+    "Métrica clara desde el inicio",
+    "Dueño del proceso",
+    "Monitoreo continuo"
+   ],
+   "cap": "Por qué tantos pilotos de IA nunca escalan y cómo evitarlo.",
+   "id": "reel_caio_117",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "How to read a PMP question",
+   "points": [
+    "Find what is really being asked",
+    "Spot the phase of the project",
+    "Choose the proactive action"
+   ],
+   "cap": "A simple reading routine that saves points on exam day.",
+   "id": "reel_pmp-en_118",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "vibe",
+   "slides": [
+    {
+     "h": "5 things to put in your spec",
+     "b": "Before you ask an AI agent to code."
+    },
+    {
+     "h": "Goal",
+     "b": "What problem the feature solves."
+    },
+    {
+     "h": "Inputs and outputs",
+     "b": "What goes in and what must come out."
+    },
+    {
+     "h": "Edge cases",
+     "b": "What happens when things go wrong."
+    },
+    {
+     "h": "Done criteria",
+     "b": "How you'll know it works."
+    }
+   ],
+   "cap": "A good spec is the best prompt.",
+   "id": "carousel_vibe_119",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "gcp",
+   "slides": [
+    {
+     "h": "Pregunta tipo Google Cloud ACE",
+     "b": "Responde antes de deslizar."
+    },
+    {
+     "h": "El caso",
+     "b": "Una app en Compute Engine debe leer de Cloud Storage sin guardar llaves en el código."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Llaves en un archivo de la VM\nB) Una cuenta de servicio con el rol adecuado\nC) Hacer público el bucket\nD) Usar tu cuenta personal"
+    },
+    {
+     "h": "Respuesta: B",
+     "b": "La cuenta de servicio adjunta a la VM da acceso controlado sin llaves en el código."
+    },
+    {
+     "h": "Regla del examen",
+     "b": "Apps en GCP: cuentas de servicio con mínimo privilegio."
+    }
+   ],
+   "cap": "Comenta tu respuesta 👇",
+   "id": "carousel_gcp_120",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-es",
+   "slides": [
+    {
+     "h": "Pregunta AWS: el sitio web estático más barato",
+     "b": "Responde antes de deslizar."
+    },
+    {
+     "h": "El caso",
+     "b": "Debes publicar un sitio web estático con el menor costo y sin administrar servidores."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Instancia EC2 con servidor web\nB) Hosting estático en Amazon S3\nC) Amazon RDS\nD) Volumen EBS"
+    },
+    {
+     "h": "Respuesta: B",
+     "b": "S3 puede servir sitios estáticos. Suma CloudFront para velocidad global."
+    },
+    {
+     "h": "Regla del examen",
+     "b": "Contenido estático + bajo costo + sin servidores = S3."
+    }
+   ],
+   "cap": "¿Acertaste? 👇",
+   "id": "carousel_aws-es_121",
+   "origin": "b3",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "genai-en",
+   "slides": [
+    {
+     "h": "Is GenAI right for this problem?",
+     "b": "Ask these 4 questions first."
+    },
+    {
+     "h": "Is language or content central?",
+     "b": "GenAI shines with text, code and images."
+    },
+    {
+     "h": "Is some error acceptable?",
+     "b": "If not, add strong checks or use another approach."
+    },
+    {
+     "h": "Do you have the data?",
+     "b": "Retrieval needs good documents."
+    },
+    {
+     "h": "Can you measure success?",
+     "b": "Define it before you build."
+    }
+   ],
+   "cap": "Save this for your next AI project.",
+   "id": "carousel_genai-en_122",
+   "origin": "b3",
+   "pref_date": null
+  }
+ ]
+}
