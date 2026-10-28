@@ -88,7 +88,7 @@ def write_day(date, slots, byid):
     d = os.path.join(ROOT, "dias", date)
     os.makedirs(d, exist_ok=True)
     base = f"https://github.com/{CFG['repo']}/raw/media/dias/{date}"
-    lines = [f"# {nice_date(date)} — {len(slots)} piezas para subir a TikTok", ""]
+    lines = [f"# {nice_date(date)} — {len(slots)} piezas para TikTok + Instagram", ""]
     if auto:
         lines += [f"> Metricool publica solo a las {', '.join(auto)}. Tú subes estas {len(slots)}.", ""]
     lines += [f"**Descarga todo junto:** [{date}.zip]({base}/{date}.zip)", "",
@@ -97,17 +97,22 @@ def write_day(date, slots, byid):
         p = byid[s["piece"]]; f = fname(i, s, p)
         lines.append(f"| {i} | {s['time']} | {render.CAT['books'][p['book']]['title']} | "
                      f"{'Reel' if p['fmt'] == 'reel' else 'Carrusel (video)'} | [{f}]({base}/{f}) |")
-    lines += ["", "## Copys (toca el botón de copiar de cada bloque)", ""]
+    lines += ["", "El **mismo video** va a TikTok y a Instagram Reels. Cada uno tiene su copy.", "",
+              "## Copys (toca el botón de copiar de cada bloque)", ""]
     copies = []
     for i, s in enumerate(slots, 1):
         p = byid[s["piece"]]
-        cap = render.caption(p)
-        copies.append((fname(i, s, p).replace(".mp4", ".txt"), cap))
-        lines += [f"### {i}. {s['time']} — {render.CAT['books'][p['book']]['title']}", "", "```", cap, "```", ""]
-    lines += ["## Cómo subir (≈1 min por pieza)",
-              "1. Descarga el video en el celular.", "2. TikTok › **+** › Subir › elige el video.",
-              "3. Pega el copy. En **Más opciones** activa *Contenido comercial › Tu marca*.",
-              "4. Si tu app muestra **Programar**, deja las piezas programadas a su hora y listo; si no, publícalas a su hora.", ""]
+        cap, ig = render.caption(p), render.caption_ig(p)
+        base_name = fname(i, s, p).replace(".mp4", "")
+        copies += [(base_name + "_tiktok.txt", cap), (base_name + "_instagram.txt", ig)]
+        lines += [f"### {i}. {s['time']} — {render.CAT['books'][p['book']]['title']}", "",
+                  "**TikTok**", "```", cap, "```", "**Instagram**", "```", ig, "```", ""]
+    lines += ["## Cómo subir (≈1 min por pieza y red)",
+              "1. Descarga el video en el celular.",
+              "2. **TikTok** › **+** › Subir › video › pega el copy de TikTok › *Más opciones › Contenido comercial › Tu marca* › Publicar (o Programar).",
+              "3. **Instagram** (@zone-digital25) › **+** › Reel › mismo video › pega el copy de Instagram › Compartir. "
+              "Desde la computadora puedes programar Reels gratis en Meta Business Suite.",
+              "4. Sube cada pieza a su hora (o prográmalas todas de una vez).", ""]
     open(os.path.join(d, "README.md"), "w", encoding="utf-8").write("\n".join(lines))
     for name, cap in copies:
         open(os.path.join(d, name), "w", encoding="utf-8").write(cap + "\n")

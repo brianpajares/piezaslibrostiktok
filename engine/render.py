@@ -429,6 +429,17 @@ def caption(p):
     extra = "#zonedigital #libros #LATAM #aprendeentiktok" if es else "#zonedigital #books #BookTok #learnontiktok"
     return f"{hook}\n\n{p['cap']}\n\n📘 {b['title']} — {fmt}\n{cta}\n\n{b['tags']} {extra}"
 
+def caption_ig(p):
+    """Instagram Reels: same message, link-in-bio CTA, 3-5 hashtags (Instagram's own guidance)."""
+    b = CAT["books"][p["book"]]; es = b["lang"] == "es"
+    hook = p.get("hook") or p["slides"][0]["h"]
+    fmt = "Kindle USD 9.99" + ((" · Tapa blanda" if es else " · Paperback") if b.get("paper") else "")
+    cta = ("👉 Link en la bio · o busca el título en Amazon" if es
+           else "👉 Link in bio · or search the title on Amazon")
+    save = "💾 Guárdalo y compártelo con quien lo necesite." if es else "💾 Save it and share it with someone who needs it."
+    tags = " ".join(b["tags"].split()[:4] + ["#zonedigital"])
+    return f"{hook}\n\n{p['cap']}\n{save}\n\n📘 {b['title']} — {fmt}\n{cta}\n\n{tags}"
+
 def manifest():
     import datetime as dt
     start = dt.date.fromisoformat(CAL["start"])

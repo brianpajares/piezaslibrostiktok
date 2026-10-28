@@ -1,12 +1,13 @@
-# Piezas de TikTok — Zone Digital
+# Piezas de TikTok e Instagram — Zone Digital
 
-Paquetes diarios listos para subir a TikTok (**@zone_digital25**) y vender los libros de [zone-digital.com](https://zone-digital.com) en Amazon.
+Paquetes diarios listos para subir a TikTok (**@zone_digital25**) e Instagram Reels (**@zone-digital25**) y vender los libros de [zone-digital.com](https://zone-digital.com) en Amazon.
 
 ## Tu rutina diaria (≈5 minutos)
 
 1. Abre **[HOY.md](HOY.md)**: dice qué subir hoy, a qué hora y trae el copy listo para copiar.
 2. Descarga los videos desde el celular (o el `.zip` del día en la computadora).
-3. En TikTok: **+ › Subir › video › pega el copy › Contenido comercial: Tu marca › Publicar** (o **Programar**).
+3. En TikTok: **+ › Subir › video › pega el copy de TikTok › Contenido comercial: Tu marca › Publicar** (o **Programar**).
+4. En Instagram: **+ › Reel › el mismo video › pega el copy de Instagram › Compartir** (o prográmalo en Meta Business Suite).
 
 Cada mañana te llega un aviso con la lista del día y los enlaces.
 
@@ -25,7 +26,7 @@ El plan gratis de Metricool publica 20 piezas al mes. Si activas Starter (~€16
 | Carpeta | Contenido |
 |---|---|
 | `HOY.md` | Lo de hoy (se actualiza cada mañana) |
-| `dias/AAAA-MM-DD/` | Plan del día + copys (`.txt`) |
+| `dias/AAAA-MM-DD/` | Plan del día + copys de TikTok e Instagram (`.txt`) |
 | rama **`media`** › `dias/AAAA-MM-DD/` | Los videos `.mp4` y el `.zip` del día (solo las 2 semanas vigentes) |
 | `content/pool.json` | Banco de piezas por publicar (hooks, puntos, diapositivas, copy) |
 | `content/plan.json` | Qué pieza va en qué día y hora |

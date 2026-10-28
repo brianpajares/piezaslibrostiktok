@@ -21,7 +21,7 @@ plan = json.load(open(os.path.join(ROOT, "content", "plan.json"), encoding="utf-
 pool = {p["id"]: p for p in json.load(open(os.path.join(ROOT, "content", "pool.json"), encoding="utf-8"))["pieces"]}
 repo = json.load(open(os.path.join(ROOT, "content", "config.json"), encoding="utf-8"))["repo"]
 base = f"https://github.com/{repo}/raw/media/dias/{date}"
-lines = [f"TikTok hoy {date}: {len(plan)} piezas",
+lines = [f"TikTok + Instagram hoy {date}: {len(plan)} piezas (mismo video en las dos)",
          f"Todo en uno: {base}/{date}.zip",
          f"Copys listos: https://github.com/{repo}/blob/main/dias/{date}/README.md"]
 for i, s in enumerate(plan, 1):
