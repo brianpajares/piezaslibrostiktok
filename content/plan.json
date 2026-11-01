@@ -100,5 +100,135 @@
    "time": "20:00",
    "piece": "reel_vibe_064"
   }
+ ],
+ "2026-11-05": [
+  {
+   "time": "10:00",
+   "piece": "reel_aws-es_009"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_vibe_010"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_ingia_065"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_wealth_066"
+  }
+ ],
+ "2026-11-06": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-en_011"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_genai-en_012"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_cfa-en_068"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_aws-en_069"
+  }
+ ],
+ "2026-11-07": [
+  {
+   "time": "10:00",
+   "piece": "reel_aws-en_013"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_cfa-en_014"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_pmp-en_067"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_ingia_070"
+  }
+ ],
+ "2026-11-08": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-es_015"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_vibe_016"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_genai-en_071"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_mba-en_072"
+  }
+ ],
+ "2026-11-09": [
+  {
+   "time": "10:00",
+   "piece": "reel_aws-en_017"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_genai-en_018"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_vibe_073"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_caio_074"
+  }
+ ],
+ "2026-11-10": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-en_019"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_wealth_020"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_gcp_075"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_solarch-en_076"
+  }
+ ],
+ "2026-11-11": [
+  {
+   "time": "10:00",
+   "piece": "carousel_aws-en_021"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_genai-en_022"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_growthos_077"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_cfa-en_078"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_wealth_079"
+  }
  ]
 }
