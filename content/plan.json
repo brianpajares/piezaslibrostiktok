@@ -230,5 +230,159 @@
    "time": "20:00",
    "piece": "reel_wealth_079"
   }
+ ],
+ "2026-11-12": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-en_023"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_cfa-es_024"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_genai-en_080"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_caio_082"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_aws-en_083"
+  }
+ ],
+ "2026-11-13": [
+  {
+   "time": "10:00",
+   "piece": "carousel_vibe_025"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_growthos_026"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_pmp-en_081"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_cfa-en_084"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_mba-en_087"
+  }
+ ],
+ "2026-11-14": [
+  {
+   "time": "10:00",
+   "piece": "carousel_pmp-es_027"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_aws-es_028"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_vibe_085"
+  },
+  {
+   "time": "18:00",
+   "piece": "carousel_growthos_086"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_caio_088"
+  }
+ ],
+ "2026-11-15": [
+  {
+   "time": "10:00",
+   "piece": "reel_wealth_029"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_ingia_030"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_aws-en_090"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_vibe_091"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_solarch-en_092"
+  }
+ ],
+ "2026-11-16": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-en_031"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_aws-en_032"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_ingia_089"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_mba-en_093"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_caio_094"
+  }
+ ],
+ "2026-11-17": [
+  {
+   "time": "10:00",
+   "piece": "reel_cfa-en_033"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_vibe_034"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_ingia_095"
+  },
+  {
+   "time": "18:00",
+   "piece": "carousel_wealth_096"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_growthos_097"
+  }
+ ],
+ "2026-11-18": [
+  {
+   "time": "10:00",
+   "piece": "carousel_pmp-en_035"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_aws-en_036"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_azure_098"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_gcp_099"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_genai-en_100"
+  }
  ]
 }
