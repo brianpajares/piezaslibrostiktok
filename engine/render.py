@@ -10,6 +10,7 @@ Usage:
 Real covers: drop <KINDLE_ASIN>.jpg (or .png) into ./covers/ and the engine uses it
 instead of the generated cover.
 """
+import re
 import argparse, json, math, os, subprocess, wave
 from multiprocessing import Pool
 import numpy as np
@@ -420,37 +421,70 @@ def render_carousel(p):
     return folder
 
 # ---------- captions ----------
-def caption(p):
+# REGLA DE COPY: gancho con 1 emoji · 2–3 enseñanzas numeradas · pregunta · 📘 título completo · ✍️ autor ·
+# 🛒 link Kindle (+ 📗 tapa blanda) · (IG: 💾) · hashtags (TikTok 6–9, IG 5, YouTube 3–4 + #Shorts)
+NUM = ["1⃣", "2⃣", "3⃣"]
+HOOK_EMOJI = {"cert": "🎯", "ia": "🤖", "neg": "🚀", "min": "⛏️", "st": "🚀"}
+_EMO = re.compile("[\U0001F000-\U0001FAFF\u2600-\u27BF\u2B00-\u2BFF]")
+
+def _hook(p, b):
+    h = (p.get("hook") or p["slides"][0]["h"]).strip()
+    return h if _EMO.search(h) else f"{HOOK_EMOJI.get(b['cat'], '📘')} {h}"
+
+def lessons(p):
+    """2–3 enseñanzas concretas tomadas de points[] (reel) o slides[1:] (carrusel)."""
+    if p["fmt"] == "reel":
+        out = [x.strip() for x in p.get("points", []) if x.strip()]
+    elif any("\n" in (s.get("b") or "") for s in p["slides"]):  # pregunta tipo examen
+        k = next(i for i, s in enumerate(p["slides"]) if "\n" in (s.get("b") or ""))
+        out = [(s.get("b") or s.get("h", "")).strip() for s in p["slides"][k + 1:]]
+    else:
+        out = []
+        for s in p["slides"][1:]:
+            h, body = s.get("h", "").strip(), (s.get("b") or "").strip()
+            if body and "\n" not in body and len(body) <= 90 and not h.endswith("?"):
+                out.append(f"{h}: {body}" if h and not h.endswith((":", ".")) else (h + " " + body).strip())
+            else:
+                out.append(h)
+    return [x for x in out if x][:3]
+
+def _core(p, ig=False):
     b = CAT["books"][p["book"]]; es = b["lang"] == "es"
-    hook = p.get("hook") or p["slides"][0]["h"]
-    fmt = "Kindle USD 9.99" + ((" · Tapa blanda disponible" if es else " · Paperback available") if b.get("paper") else "")
-    cta = (f'👉 Link en la bio o busca "{b["title"]}" en Amazon' if es
-           else f'👉 Link in bio or search "{b["title"]}" on Amazon')
-    extra = "#zonedigital #libros #LATAM #aprendeentiktok" if es else "#zonedigital #books #BookTok #learnontiktok"
-    return f"{hook}\n\n{p['cap']}\n\n📘 {b['title']} — {fmt}\n{cta}\n\n{b['tags']} {extra}"
+    ls = lessons(p)
+    head = "Lo que enseña el libro:" if es else (f"{len(ls)} lessons from the book:")
+    body = "\n".join(f"{NUM[i]} {x}" for i, x in enumerate(ls))
+    q = ("💬 ¿Cuál aplicarías primero? Cuéntame en comentarios." if es
+         else "💬 Which one would you apply first? Tell me in the comments.")
+    full = b.get("full_title") or b["title"]
+    kin = b.get("amazon_kindle") or f"https://www.amazon.com/dp/{b['kindle']}"
+    pap = b.get("amazon_paperback") or (f"https://www.amazon.com/dp/{b['paper']}" if b.get("paper") else None)
+    buy = [f"🛒 Kindle USD 9.99 → {kin}"]
+    if pap:
+        buy.append(f"📗 {'Tapa blanda' if es else 'Paperback'} → {pap}")
+    parts = [_hook(p, b), f"{head}\n{body}", q,
+             f"📘 {full}\n✍️ {'de' if es else 'by'} {b.get('author', 'Brian Pajares')}\n" + "\n".join(buy)]
+    if ig:
+        parts.append("💾 Guárdalo y compártelo" if es else "💾 Save it and share it")
+    return b, es, parts
+
+def caption(p):
+    """TikTok: copy completo + 9 hashtags."""
+    b, es, parts = _core(p)
+    extra = ["#zonedigital", "#libros", "#LATAM", "#aprendeentiktok"] if es else ["#zonedigital", "#books", "#BookTok", "#learnontiktok"]
+    tags = b["tags"].split()[:5] + extra
+    return "\n\n".join(parts + [" ".join(tags[:9])])
 
 def caption_ig(p):
-    """Instagram Reels: same message, link-in-bio CTA, 3-5 hashtags (Instagram's own guidance)."""
-    b = CAT["books"][p["book"]]; es = b["lang"] == "es"
-    hook = p.get("hook") or p["slides"][0]["h"]
-    fmt = "Kindle USD 9.99" + ((" · Tapa blanda" if es else " · Paperback") if b.get("paper") else "")
-    cta = ("👉 Link en la bio · o busca el título en Amazon" if es
-           else "👉 Link in bio · or search the title on Amazon")
-    save = "💾 Guárdalo y compártelo con quien lo necesite." if es else "💾 Save it and share it with someone who needs it."
-    tags = " ".join(b["tags"].split()[:4] + ["#zonedigital"])
-    return f"{hook}\n\n{p['cap']}\n{save}\n\n📘 {b['title']} — {fmt}\n{cta}\n\n{tags}"
+    """Instagram Reels: copy completo + 💾 + 5 hashtags."""
+    b, es, parts = _core(p, ig=True)
+    return "\n\n".join(parts + [" ".join(b["tags"].split()[:4] + ["#zonedigital"])])
 
 def caption_yt(p):
-    """YouTube Shorts: (title ≤100 chars with #Shorts, description)."""
-    b = CAT["books"][p["book"]]; es = b["lang"] == "es"
+    """YouTube Shorts: (title ≤100 chars con #Shorts, descripción con la REGLA DE COPY + 3 hashtags + #Shorts)."""
+    b, es, parts = _core(p)
     hook = (p.get("hook") or p["slides"][0]["h"]).strip()
-    title = (hook[:88].rstrip() + " #Shorts")
-    cta = (f'📘 Libro: {b["title"]} (Kindle USD 9.99) — búscalo en Amazon o entra a zone-digital.com'
-           if es else f'📘 Book: {b["title"]} (Kindle USD 9.99) — search it on Amazon or visit zone-digital.com')
-    amazon = f"https://www.amazon.com/dp/{b['kindle']}"
-    tags = " ".join(b["tags"].split()[:3] + ["#Shorts"])
-    desc = f"{hook}\n\n{p['cap']}\n\n{cta}\n{amazon}\n\n{tags}"
-    return title, desc
+    title = hook[:88].rstrip() + " #Shorts"
+    return title, "\n\n".join(parts + [" ".join(b["tags"].split()[:3] + ["#Shorts"])])
 
 def manifest():
     import datetime as dt

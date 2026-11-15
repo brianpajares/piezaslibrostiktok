@@ -1,0 +1,16 @@
+🎯 Pregunta AWS: el sitio web estático más barato
+
+Lo que enseña el libro:
+1⃣ S3 puede servir sitios estáticos. Suma CloudFront para velocidad global.
+2⃣ Contenido estático + bajo costo + sin servidores = S3.
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 AWS Solutions Architect Associate: Certifícate y Transforma tu Carrera en la Nube
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWT8XXXD
+📗 Tapa blanda → https://www.amazon.com/dp/B0F79WNWYM
+
+💾 Guárdalo y compártelo
+
+#AWS #certificacionAWS #cloud #nube #zonedigital

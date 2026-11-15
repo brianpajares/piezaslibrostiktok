@@ -18,24 +18,37 @@ El **mismo video** va a TikTok y a Instagram Reels. Cada uno tiene su copy.
 
 **TikTok**
 ```
-5 PMP terms you must know
+🎯 5 PMP terms you must know
 
-Save this for your PMP review.
+3 lessons from the book:
+1⃣ Stakeholder: Anyone affected by or able to affect the project.
+2⃣ Scope: The work required to deliver the result. Nothing more.
+3⃣ Backlog: An ordered list of work for an agile team.
 
-📘 The Master Path to PMP Certification — Kindle USD 9.99
-👉 Link in bio or search "The Master Path to PMP Certification" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 The Master Path to PMP Certification: A Practical Guide for Successful Professionals
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWM13M4P
 
 #PMP #PMPexam #projectmanagement #PMI #careergrowth #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-5 PMP terms you must know
+🎯 5 PMP terms you must know
 
-Save this for your PMP review.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ Stakeholder: Anyone affected by or able to affect the project.
+2⃣ Scope: The work required to deliver the result. Nothing more.
+3⃣ Backlog: An ordered list of work for an agile team.
 
-📘 The Master Path to PMP Certification — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 The Master Path to PMP Certification: A Practical Guide for Successful Professionals
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWM13M4P
+
+💾 Save it and share it
 
 #PMP #PMPexam #projectmanagement #PMI #zonedigital
 ```
@@ -44,24 +57,37 @@ Save this for your PMP review.
 
 **TikTok**
 ```
-The 4 domains of AWS SAA
+🎯 The 4 domains of AWS SAA
 
-Know what the Solutions Architect Associate exam really measures.
+3 lessons from the book:
+1⃣ Secure architectures
+2⃣ Resilient architectures
+3⃣ High-performing and cost-optimized
 
-📘 AWS Solutions Architect Associate — Kindle USD 9.99
-👉 Link in bio or search "AWS Solutions Architect Associate" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 AWS Solutions Architect Associate: Get Certified and Transform Your Career in the Cloud
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWTB2V3R
 
 #AWS #AWScertified #SAAC03 #cloudcomputing #techcareer #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-The 4 domains of AWS SAA
+🎯 The 4 domains of AWS SAA
 
-Know what the Solutions Architect Associate exam really measures.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ Secure architectures
+2⃣ Resilient architectures
+3⃣ High-performing and cost-optimized
 
-📘 AWS Solutions Architect Associate — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 AWS Solutions Architect Associate: Get Certified and Transform Your Career in the Cloud
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWTB2V3R
+
+💾 Save it and share it
 
 #AWS #AWScertified #SAAC03 #cloudcomputing #zonedigital
 ```
@@ -70,24 +96,35 @@ Know what the Solutions Architect Associate exam really measures.
 
 **TikTok**
 ```
-Pregunta tipo AZ-104
+🎯 Pregunta tipo AZ-104
 
-¿Acertaste? 👇
+Lo que enseña el libro:
+1⃣ Asigna el rol específico, en el alcance más pequeño posible.
+2⃣ Mínimo privilegio con RBAC: rol justo, alcance justo.
 
-📘 Domina Azure y Certifícate Rápido — Kindle USD 9.99
-👉 Link en la bio o busca "Domina Azure y Certifícate Rápido" en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Domina Azure y Certifícate Rápido: La guía total para aprobar el examen AZ-104
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HS7VKJ
 
 #Azure #AZ104 #Microsoft #cloud #certificacion #zonedigital #libros #LATAM #aprendeentiktok
 ```
 **Instagram**
 ```
-Pregunta tipo AZ-104
+🎯 Pregunta tipo AZ-104
 
-¿Acertaste? 👇
-💾 Guárdalo y compártelo con quien lo necesite.
+Lo que enseña el libro:
+1⃣ Asigna el rol específico, en el alcance más pequeño posible.
+2⃣ Mínimo privilegio con RBAC: rol justo, alcance justo.
 
-📘 Domina Azure y Certifícate Rápido — Kindle USD 9.99
-👉 Link en la bio · o busca el título en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Domina Azure y Certifícate Rápido: La guía total para aprobar el examen AZ-104
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HS7VKJ
+
+💾 Guárdalo y compártelo
 
 #Azure #AZ104 #Microsoft #cloud #zonedigital
 ```
@@ -96,24 +133,37 @@ Pregunta tipo AZ-104
 
 **TikTok**
 ```
-Google Cloud ACE en 15 segundos
+🎯 Google Cloud ACE en 15 segundos
 
-Qué evalúa la certificación Associate Cloud Engineer.
+Lo que enseña el libro:
+1⃣ Despliega y gestiona recursos
+2⃣ Configura accesos y redes
+3⃣ Opera y monitorea soluciones
 
-📘 Google Cloud Engineer — Kindle USD 9.99
-👉 Link en la bio o busca "Google Cloud Engineer" en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Google Cloud Engineer: Guía completa para aprobar la certificación Associate Cloud Engineer (ACE)
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HPWHMG
 
 #GoogleCloud #GCP #cloudengineer #certificacion #nube #zonedigital #libros #LATAM #aprendeentiktok
 ```
 **Instagram**
 ```
-Google Cloud ACE en 15 segundos
+🎯 Google Cloud ACE en 15 segundos
 
-Qué evalúa la certificación Associate Cloud Engineer.
-💾 Guárdalo y compártelo con quien lo necesite.
+Lo que enseña el libro:
+1⃣ Despliega y gestiona recursos
+2⃣ Configura accesos y redes
+3⃣ Opera y monitorea soluciones
 
-📘 Google Cloud Engineer — Kindle USD 9.99
-👉 Link en la bio · o busca el título en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Google Cloud Engineer: Guía completa para aprobar la certificación Associate Cloud Engineer (ACE)
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HPWHMG
+
+💾 Guárdalo y compártelo
 
 #GoogleCloud #GCP #cloudengineer #certificacion #zonedigital
 ```
@@ -122,24 +172,37 @@ Qué evalúa la certificación Associate Cloud Engineer.
 
 **TikTok**
 ```
-3 GenAI projects for your portfolio
+🤖 3 GenAI projects for your portfolio
 
-Show companies you can build, not just use.
+3 lessons from the book:
+1⃣ A RAG assistant on real documents
+2⃣ An agent that completes a task
+3⃣ An evaluation dashboard
 
-📘 Master the Age of Generative AI — Kindle USD 9.99
-👉 Link in bio or search "Master the Age of Generative AI" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Master the Age of Generative Artificial Intelligence: The Ultimate Guide for Data Scientists of the Future
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5NTJ55Q
 
 #GenerativeAI #DataScience #AI #MachineLearning #LLM #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-3 GenAI projects for your portfolio
+🤖 3 GenAI projects for your portfolio
 
-Show companies you can build, not just use.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ A RAG assistant on real documents
+2⃣ An agent that completes a task
+3⃣ An evaluation dashboard
 
-📘 Master the Age of Generative AI — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Master the Age of Generative Artificial Intelligence: The Ultimate Guide for Data Scientists of the Future
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5NTJ55Q
+
+💾 Save it and share it
 
 #GenerativeAI #DataScience #AI #MachineLearning #zonedigital
 ```

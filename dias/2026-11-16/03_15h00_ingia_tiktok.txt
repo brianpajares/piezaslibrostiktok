@@ -1,8 +1,14 @@
-Qué hace un Ingeniero de IA
+🤖 Qué hace un Ingeniero de IA
 
-Uno de los roles más buscados en tecnología hoy.
+Lo que enseña el libro:
+1⃣ Conecta modelos con sistemas reales
+2⃣ Construye RAG y agentes
+3⃣ Lleva todo a producción
 
-📘 El Ingeniero de IA — Kindle USD 9.99
-👉 Link en la bio o busca "El Ingeniero de IA" en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
 
 #IA #IAGenerativa #LLM #RAG #agentesIA #zonedigital #libros #LATAM #aprendeentiktok

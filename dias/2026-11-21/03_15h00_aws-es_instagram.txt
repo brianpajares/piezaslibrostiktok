@@ -1,0 +1,17 @@
+🎯 Los 4 dominios del AWS SAA
+
+Lo que enseña el libro:
+1⃣ Arquitecturas seguras
+2⃣ Arquitecturas resilientes
+3⃣ Alto rendimiento y costo óptimo
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 AWS Solutions Architect Associate: Certifícate y Transforma tu Carrera en la Nube
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWT8XXXD
+📗 Tapa blanda → https://www.amazon.com/dp/B0F79WNWYM
+
+💾 Guárdalo y compártelo
+
+#AWS #certificacionAWS #cloud #nube #zonedigital

@@ -1,9 +1,16 @@
-3 GenAI projects for your portfolio
+🤖 3 GenAI projects for your portfolio
 
-Show companies you can build, not just use.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ A RAG assistant on real documents
+2⃣ An agent that completes a task
+3⃣ An evaluation dashboard
 
-📘 Master the Age of Generative AI — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Master the Age of Generative Artificial Intelligence: The Ultimate Guide for Data Scientists of the Future
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5NTJ55Q
+
+💾 Save it and share it
 
 #GenerativeAI #DataScience #AI #MachineLearning #zonedigital

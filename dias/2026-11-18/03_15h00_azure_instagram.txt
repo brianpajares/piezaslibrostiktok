@@ -1,9 +1,15 @@
-Pregunta tipo AZ-104
+🎯 Pregunta tipo AZ-104
 
-¿Acertaste? 👇
-💾 Guárdalo y compártelo con quien lo necesite.
+Lo que enseña el libro:
+1⃣ Asigna el rol específico, en el alcance más pequeño posible.
+2⃣ Mínimo privilegio con RBAC: rol justo, alcance justo.
 
-📘 Domina Azure y Certifícate Rápido — Kindle USD 9.99
-👉 Link en la bio · o busca el título en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Domina Azure y Certifícate Rápido: La guía total para aprobar el examen AZ-104
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HS7VKJ
+
+💾 Guárdalo y compártelo
 
 #Azure #AZ104 #Microsoft #cloud #zonedigital

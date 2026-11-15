@@ -1,0 +1,13 @@
+🎯 Pregunta tipo Google Cloud ACE
+
+Lo que enseña el libro:
+1⃣ La cuenta de servicio adjunta a la VM da acceso controlado sin llaves en el código.
+2⃣ Apps en GCP: cuentas de servicio con mínimo privilegio.
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Google Cloud Engineer: Guía completa para aprobar la certificación Associate Cloud Engineer (ACE)
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HPWHMG
+
+#GoogleCloud #GCP #cloudengineer #certificacion #nube #zonedigital #libros #LATAM #aprendeentiktok

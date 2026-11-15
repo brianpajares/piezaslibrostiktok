@@ -53,7 +53,12 @@
    "cat": "cert",
    "kindle": "B0DWPB9MML",
    "page": "la-ruta-maestra-hacia-la-certificacion-pmp",
-   "tags": "#PMP #certificacionPMP #gestiondeproyectos #projectmanagement #PMI"
+   "tags": "#PMP #certificacionPMP #gestiondeproyectos #projectmanagement #PMI",
+   "id": "L01",
+   "full_title": "La Ruta Maestra hacia la Certificación PMP: Guía Práctica para Profesionales Exitosos",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0DWPB9MML",
+   "amazon_paperback": null
   },
   "pmp-en": {
    "title": "The Master Path to PMP Certification",
@@ -62,7 +67,12 @@
    "cat": "cert",
    "kindle": "B0DWM13M4P",
    "page": "the-master-path-to-pmp-certification",
-   "tags": "#PMP #PMPexam #projectmanagement #PMI #careergrowth"
+   "tags": "#PMP #PMPexam #projectmanagement #PMI #careergrowth",
+   "id": "L14",
+   "full_title": "The Master Path to PMP Certification: A Practical Guide for Successful Professionals",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0DWM13M4P",
+   "amazon_paperback": null
   },
   "aws-es": {
    "title": "AWS Solutions Architect Associate",
@@ -72,7 +82,12 @@
    "kindle": "B0DWT8XXXD",
    "paper": "B0F79WNWYM",
    "page": "aws-solutions-architect-associate",
-   "tags": "#AWS #certificacionAWS #cloud #nube #SolutionsArchitect"
+   "tags": "#AWS #certificacionAWS #cloud #nube #SolutionsArchitect",
+   "id": "L03",
+   "full_title": "AWS Solutions Architect Associate: Certifícate y Transforma tu Carrera en la Nube",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0DWT8XXXD",
+   "amazon_paperback": "https://www.amazon.com/dp/B0F79WNWYM"
   },
   "aws-en": {
    "title": "AWS Solutions Architect Associate",
@@ -81,7 +96,12 @@
    "cat": "cert",
    "kindle": "B0DWTB2V3R",
    "page": "aws-solutions-architect-associate-b0dwtb2v3r",
-   "tags": "#AWS #AWScertified #SAAC03 #cloudcomputing #techcareer"
+   "tags": "#AWS #AWScertified #SAAC03 #cloudcomputing #techcareer",
+   "id": "L20",
+   "full_title": "AWS Solutions Architect Associate: Get Certified and Transform Your Career in the Cloud",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0DWTB2V3R",
+   "amazon_paperback": null
   },
   "azure": {
    "title": "Domina Azure y Certifícate Rápido",
@@ -90,7 +110,12 @@
    "cat": "cert",
    "kindle": "B0H4HS7VKJ",
    "page": "domina-azure-y-certificate-rapido",
-   "tags": "#Azure #AZ104 #Microsoft #cloud #certificacion"
+   "tags": "#Azure #AZ104 #Microsoft #cloud #certificacion",
+   "id": "L37",
+   "full_title": "Domina Azure y Certifícate Rápido: La guía total para aprobar el examen AZ-104",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H4HS7VKJ",
+   "amazon_paperback": null
   },
   "gcp": {
    "title": "Google Cloud Engineer",
@@ -99,7 +124,12 @@
    "cat": "cert",
    "kindle": "B0H4HPWHMG",
    "page": "google-cloud-engineer",
-   "tags": "#GoogleCloud #GCP #cloudengineer #certificacion #nube"
+   "tags": "#GoogleCloud #GCP #cloudengineer #certificacion #nube",
+   "id": "L36",
+   "full_title": "Google Cloud Engineer: Guía completa para aprobar la certificación Associate Cloud Engineer (ACE)",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H4HPWHMG",
+   "amazon_paperback": null
   },
   "cfa-es": {
    "title": "CFA: El Camino Certificado al Éxito Financiero Global",
@@ -108,7 +138,12 @@
    "cat": "cert",
    "kindle": "B0DWT17LCJ",
    "page": "cfa-el-camino-certificado-al-exito-financiero-global",
-   "tags": "#CFA #finanzas #inversiones #certificacion #carrerafinanciera"
+   "tags": "#CFA #finanzas #inversiones #certificacion #carrerafinanciera",
+   "id": "L02",
+   "full_title": "CFA: El Camino Certificado Hacia el Éxito Financiero Global",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0DWT17LCJ",
+   "amazon_paperback": null
   },
   "cfa-en": {
    "title": "CFA: The Certified Path to Global Financial Success",
@@ -117,7 +152,12 @@
    "cat": "cert",
    "kindle": "B0DWQM4B7Z",
    "page": "cfa-the-certified-path-to-global-financial-success",
-   "tags": "#CFA #CFAexam #finance #investing #financecareer"
+   "tags": "#CFA #CFAexam #finance #investing #financecareer",
+   "id": "L15",
+   "full_title": "CFA: The Certified Path to Global Financial Success",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0DWQM4B7Z",
+   "amazon_paperback": null
   },
   "caio": {
    "title": "Chief AI Officer",
@@ -127,7 +167,12 @@
    "kindle": "B0GYZYK1G7",
    "paper": "B0GZ3BRP2K",
    "page": "chief-ai-officer",
-   "tags": "#ChiefAIOfficer #inteligenciaartificial #liderazgo #IA #transformaciondigital"
+   "tags": "#ChiefAIOfficer #inteligenciaartificial #liderazgo #IA #transformaciondigital",
+   "id": "L22",
+   "full_title": "Chief AI Officer: El nuevo líder de la empresa inteligente",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0GYZYK1G7",
+   "amazon_paperback": "https://www.amazon.com/dp/B0GZ3BRP2K"
   },
   "ingia": {
    "title": "El Ingeniero de IA",
@@ -136,7 +181,12 @@
    "cat": "ia",
    "kindle": "B0H47SQ4SK",
    "page": "el-ingeniero-de-ia",
-   "tags": "#IA #IAGenerativa #LLM #RAG #agentesIA"
+   "tags": "#IA #IAGenerativa #LLM #RAG #agentesIA",
+   "id": "L30",
+   "full_title": "El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H47SQ4SK",
+   "amazon_paperback": null
   },
   "loop": {
    "title": "Loop Engineering",
@@ -145,7 +195,12 @@
    "cat": "ia",
    "kindle": "B0H6RBJ8CL",
    "page": "loop-engineering",
-   "tags": "#agentesIA #automatizacion #IA #productividad #inteligenciaartificial"
+   "tags": "#agentesIA #automatizacion #IA #productividad #inteligenciaartificial",
+   "id": "L46",
+   "full_title": "Loop Engineering: Diseña bucles de agentes de IA que trabajan, observan, deciden y mejoran por ti",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H6RBJ8CL",
+   "amazon_paperback": null
   },
   "mlops": {
    "title": "El Ingeniero MLOps",
@@ -154,7 +209,12 @@
    "cat": "ia",
    "kindle": "B0H482Q8VW",
    "page": "el-ingeniero-mlops",
-   "tags": "#MLOps #machinelearning #datascience #IA #ingenieria"
+   "tags": "#MLOps #machinelearning #datascience #IA #ingenieria",
+   "id": "L28",
+   "full_title": "El Ingeniero MLOps",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H482Q8VW",
+   "amazon_paperback": null
   },
   "arqcloud": {
    "title": "El Manual del Arquitecto Cloud",
@@ -163,7 +223,12 @@
    "cat": "ia",
    "kindle": "B0H47SNCWQ",
    "page": "el-manual-del-arquitecto-cloud",
-   "tags": "#cloud #arquitecturacloud #AWS #Azure #FinOps"
+   "tags": "#cloud #arquitecturacloud #AWS #Azure #FinOps",
+   "id": "L29",
+   "full_title": "El Manual del Arquitecto Cloud",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H47SNCWQ",
+   "amazon_paperback": null
   },
   "vibe": {
    "title": "VIBE CODING",
@@ -172,7 +237,12 @@
    "cat": "ia",
    "kindle": "B0H6RB9BQM",
    "page": "vibe-coding",
-   "tags": "#vibecoding #AIagents #buildinpublic #coding #AI"
+   "tags": "#vibecoding #AIagents #buildinpublic #coding #AI",
+   "id": "L42",
+   "full_title": "VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H6RB9BQM",
+   "amazon_paperback": null
   },
   "wealth": {
    "title": "The AI Digital Wealth Factory",
@@ -181,7 +251,12 @@
    "cat": "ia",
    "kindle": "B0H1MQ27TL",
    "page": "the-ai-digital-wealth-factory",
-   "tags": "#digitalproducts #AIagents #sidehustle #passiveincome #AI"
+   "tags": "#digitalproducts #AIagents #sidehustle #passiveincome #AI",
+   "id": "L35",
+   "full_title": "The AI Digital Wealth Factory: How to Build, Automate and Monetize Digital Products with Agentic AI",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H1MQ27TL",
+   "amazon_paperback": null
   },
   "growthos": {
    "title": "The AI Growth Operating System",
@@ -191,7 +266,12 @@
    "kindle": "B0H2KJ15ZX",
    "paper": "B0H2PWP6HX",
    "page": "the-ai-growth-operating-system",
-   "tags": "#AIstrategy #leadership #growth #agenticAI #business"
+   "tags": "#AIstrategy #leadership #growth #agenticAI #business",
+   "id": "L23",
+   "full_title": "The AI Growth Operating System: How Leaders Build Agentic Workflows, Data Foundations, and New Revenue Engines",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H2KJ15ZX",
+   "amazon_paperback": "https://www.amazon.com/dp/B0H2PWP6HX"
   },
   "d2d": {
    "title": "Data to Dollars",
@@ -200,7 +280,12 @@
    "cat": "neg",
    "kindle": "B0H6RB7VXK",
    "page": "data-to-dollars",
-   "tags": "#datos #IA #negocios #analitica #emprendimiento"
+   "tags": "#datos #IA #negocios #analitica #emprendimiento",
+   "id": "L45",
+   "full_title": "Data to Dollars: Cómo convertir datos e inteligencia artificial en decisiones que generan dinero",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H6RB7VXK",
+   "amazon_paperback": null
   },
   "iacrec": {
    "title": "IA para Crecimiento y Ventas Exponenciales",
@@ -209,7 +294,12 @@
    "cat": "neg",
    "kindle": "B0H6R4HYQK",
    "page": "ia-para-crecimiento-y-ventas-exponenciales",
-   "tags": "#ventas #marketingdigital #IA #crecimiento #negocios"
+   "tags": "#ventas #marketingdigital #IA #crecimiento #negocios",
+   "id": "L44",
+   "full_title": "IA para Crecimiento y Ventas Exponenciales",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H6R4HYQK",
+   "amazon_paperback": null
   },
   "ceo": {
    "title": "CEO Aumentado",
@@ -219,7 +309,12 @@
    "kindle": "B0GYTJ466Y",
    "paper": "B0GZ316BHH",
    "page": "ceo-aumentado",
-   "tags": "#liderazgo #CEO #IA #estrategia #productividad"
+   "tags": "#liderazgo #CEO #IA #estrategia #productividad",
+   "id": "L21",
+   "full_title": "CEO Aumentado: Cómo líderes, emprendedores y profesionales pueden convertir la IA en estrategia y ventaja competitiva real",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0GYTJ466Y",
+   "amazon_paperback": "https://www.amazon.com/dp/B0GZ316BHH"
   },
   "mba": {
    "title": "MBA Rediseñado",
@@ -229,7 +324,12 @@
    "kindle": "B0F5QR9FNZ",
    "paper": "B0F7FG4QZT",
    "page": "mba-redisenado",
-   "tags": "#MBA #negocios #liderazgo #estrategia #carreraprofesional"
+   "tags": "#MBA #negocios #liderazgo #estrategia #carreraprofesional",
+   "id": "L04",
+   "full_title": "MBA Rediseñado: Aprende, Lidera y Triunfa con las Estrategias que Funcionan Hoy",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F5QR9FNZ",
+   "amazon_paperback": "https://www.amazon.com/dp/B0F7FG4QZT"
   },
   "startups": {
    "title": "Liderando Start Ups del Futuro",
@@ -239,7 +339,12 @@
    "kindle": "B08XHDW2P5",
    "paper": "B08XL7ZG3H",
    "page": "liderando-start-ups-del-futuro",
-   "tags": "#startups #emprendimiento #emprendedores #negocios #LATAM"
+   "tags": "#startups #emprendimiento #emprendedores #negocios #LATAM",
+   "id": "L10",
+   "full_title": "Liderando Start Ups del Futuro: La guía para ser un emprendedor exitoso",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B08XHDW2P5",
+   "amazon_paperback": "https://www.amazon.com/dp/B08XL7ZG3H"
   },
   "twin": {
    "title": "The Digital Twin Mine",
@@ -248,7 +353,12 @@
    "cat": "min",
    "kindle": "B0H381YN82",
    "page": "the-digital-twin-mine",
-   "tags": "#mining #digitaltwin #mining40 #AI #Peru"
+   "tags": "#mining #digitaltwin #mining40 #AI #Peru",
+   "id": "L25",
+   "full_title": "The Digital Twin Mine",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H381YN82",
+   "amazon_paperback": null
   },
   "cvsafety": {
    "title": "Computer Vision for Mine Safety",
@@ -257,7 +367,12 @@
    "cat": "min",
    "kindle": "B0H63S13SL",
    "page": "computer-vision-for-mine-safety",
-   "tags": "#mining #computervision #safety #AI #miningtechnology"
+   "tags": "#mining #computervision #safety #AI #miningtechnology",
+   "id": "L41",
+   "full_title": "Computer Vision for Mine Safety",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H63S13SL",
+   "amazon_paperback": null
   },
   "space": {
    "title": "Space Mining Engineering",
@@ -266,7 +381,12 @@
    "cat": "min",
    "kindle": "B0H4N9YHCQ",
    "page": "space-mining-engineering",
-   "tags": "#spacemining #space #mining #Moon #asteroids"
+   "tags": "#spacemining #space #mining #Moon #asteroids",
+   "id": "L38",
+   "full_title": "Space Mining Engineering",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H4N9YHCQ",
+   "amazon_paperback": null
   },
   "deepsea": {
    "title": "Deep-Sea Mining 2030",
@@ -275,7 +395,12 @@
    "cat": "min",
    "kindle": "B0H4NDH523",
    "page": "deep-sea-mining-2030",
-   "tags": "#deepseamining #ocean #criticalminerals #mining #energytransition"
+   "tags": "#deepseamining #ocean #criticalminerals #mining #energytransition",
+   "id": "L39",
+   "full_title": "Deep-Sea Mining 2030",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H4NDH523",
+   "amazon_paperback": null
   },
   "mds": {
    "title": "Maintenance Data Scientist",
@@ -284,7 +409,12 @@
    "cat": "min",
    "kindle": "B0H63XQQRJ",
    "page": "maintenance-data-scientist",
-   "tags": "#datascience #maintenance #mining #careers #predictivemaintenance"
+   "tags": "#datascience #maintenance #mining #careers #predictivemaintenance",
+   "id": "L40",
+   "full_title": "Maintenance Data Scientist",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H63XQQRJ",
+   "amazon_paperback": null
   },
   "genai-en": {
    "title": "Master the Age of Generative AI",
@@ -293,7 +423,12 @@
    "cat": "ia",
    "kindle": "B0F5NTJ55Q",
    "page": "master-the-age-of-generative-ai",
-   "tags": "#GenerativeAI #DataScience #AI #MachineLearning #LLM"
+   "tags": "#GenerativeAI #DataScience #AI #MachineLearning #LLM",
+   "id": "L17",
+   "full_title": "Master the Age of Generative Artificial Intelligence: The Ultimate Guide for Data Scientists of the Future",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F5NTJ55Q",
+   "amazon_paperback": null
   },
   "mba-en": {
    "title": "MBA Redesigned",
@@ -302,7 +437,12 @@
    "cat": "neg",
    "kindle": "B0F4ZMBB8W",
    "page": "mba-redesigned",
-   "tags": "#MBA #leadership #business #strategy #career"
+   "tags": "#MBA #leadership #business #strategy #career",
+   "id": "L19",
+   "full_title": "MBA Redesigned: Learn, Lead, and Succeed with Strategies That Work Today",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F4ZMBB8W",
+   "amazon_paperback": null
   },
   "solarch-en": {
    "title": "Solutions Architecture for Technology Leaders",
@@ -311,7 +451,12 @@
    "cat": "neg",
    "kindle": "B0F5QKYCJV",
    "page": "solutions-architecture-for-technology-leaders",
-   "tags": "#SolutionsArchitecture #CloudArchitect #TechLeadership #SoftwareArchitecture #CTO"
+   "tags": "#SolutionsArchitecture #CloudArchitect #TechLeadership #SoftwareArchitecture #CTO",
+   "id": "L18",
+   "full_title": "Solutions Architecture for Technology Leaders: Design, Scale, and Transform",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F5QKYCJV",
+   "amazon_paperback": null
   },
   "startups-en": {
    "title": "Leading Start Ups of the Future",
@@ -321,7 +466,285 @@
    "kindle": "B08XJV1222",
    "paper": "B08XL7ZFCP",
    "page": "leading-start-ups-of-the-future",
-   "tags": "#startups #entrepreneur #founder #business #growth"
+   "tags": "#startups #entrepreneur #founder #business #growth",
+   "id": "L13",
+   "full_title": "Leading Start Ups of the Future: The guide to being a successful entrepreneur",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B08XJV1222",
+   "amazon_paperback": "https://www.amazon.com/dp/B08XL7ZFCP"
+  },
+  "solarch-es": {
+   "title": "Arquitectura de Soluciones para Líderes Tecnológicos",
+   "sub": "Diseña, Escala y Transforma",
+   "lang": "es",
+   "cat": "neg",
+   "kindle": "B0F5NWGYNY",
+   "page": "arquitectura-de-soluciones-para-lideres-tecnologicos",
+   "tags": "#arquitecturadesoluciones #cloud #liderazgo #tecnologia #CTO",
+   "id": "L05",
+   "full_title": "Arquitectura de Soluciones para Líderes Tecnológicos: Diseña, Escala y Transforma",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F5NWGYNY",
+   "amazon_paperback": "https://www.amazon.com/dp/B0F6YJ1235",
+   "paper": "B0F6YJ1235"
+  },
+  "genai-es": {
+   "title": "Domina la Era de la Inteligencia Artificial Generativa",
+   "sub": "La Guía Definitiva para Data Scientists del Futuro",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0F5NV8NY5",
+   "page": "domina-la-era-de-la-inteligencia-artificial-generativa",
+   "tags": "#IAgenerativa #datascience #inteligenciaartificial #LLM #IA",
+   "id": "L06",
+   "full_title": "Domina la Era de la Inteligencia Artificial Generativa: La Guía Definitiva para Data Scientists del Futuro",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F5NV8NY5",
+   "amazon_paperback": "https://www.amazon.com/dp/B0F7FRTVQ7",
+   "paper": "B0F7FRTVQ7"
+  },
+  "abcmin-es": {
+   "title": "El ABC de la Innovación Minera",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "es",
+   "cat": "min",
+   "kindle": "B08W8G9J9J",
+   "page": "el-abc-de-la-innovacion-minera",
+   "tags": "#mineria #innovacion #mineria40 #Peru #tecnologia",
+   "id": "L07",
+   "full_title": "El ABC de la Innovación Minera",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B08W8G9J9J",
+   "amazon_paperback": "https://www.amazon.com/dp/B08W6QDCX3",
+   "paper": "B08W6QDCX3"
+  },
+  "tecmin-es": {
+   "title": "Tecnología Minera en Acción",
+   "sub": "Guía Completa para Instalar, Automatizar y Sostener Soluciones con Data e Inteligencia Artificial",
+   "lang": "es",
+   "cat": "min",
+   "kindle": "B0F59MNMN2",
+   "page": "tecnologia-minera-en-accion",
+   "tags": "#mineria #IA #automatizacion #mineria40 #Peru",
+   "id": "L08",
+   "full_title": "Tecnología Minera en Acción: Guía Completa para Instalar, Automatizar y Sostener Soluciones con Data e Inteligencia Artificial",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F59MNMN2",
+   "amazon_paperback": "https://www.amazon.com/dp/B0F7GCBL2Q",
+   "paper": "B0F7GCBL2Q"
+  },
+  "min40-es": {
+   "title": "La Transformación Digital y la Minería 4.0",
+   "sub": "La guía de todo profesional del futuro",
+   "lang": "es",
+   "cat": "min",
+   "kindle": "B08XGDJWF6",
+   "page": "la-transformacion-digital-y-la-mineria-4-0",
+   "tags": "#mineria40 #transformaciondigital #mineria #Peru #tecnologia",
+   "id": "L09",
+   "full_title": "La Transformación Digital y la Minería 4.0: La guía de todo profesional del futuro",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B08XGDJWF6",
+   "amazon_paperback": "https://www.amazon.com/dp/B08XNDNPDT",
+   "paper": "B08XNDNPDT"
+  },
+  "abcmin-en": {
+   "title": "ABC of the Mining Innovation",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B08XLMDF6S",
+   "page": "abc-of-the-mining-innovation",
+   "tags": "#mining #innovation #mining40 #miningtech #Peru",
+   "id": "L11",
+   "full_title": "ABC of the Mining Innovation",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B08XLMDF6S",
+   "amazon_paperback": "https://www.amazon.com/dp/B08XGSTPCQ",
+   "paper": "B08XGSTPCQ"
+  },
+  "min40-en": {
+   "title": "All About Digital Transformation and the Mining 4.0",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B08XLMLDQW",
+   "page": "all-about-digital-transformation-and-the-mining-4-0",
+   "tags": "#mining40 #digitaltransformation #mining #miningtech #AI",
+   "id": "L12",
+   "full_title": "All About Digital Transformation and the Mining 4.0",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B08XLMLDQW",
+   "amazon_paperback": "https://www.amazon.com/dp/B08XLLDZ8Y",
+   "paper": "B08XLLDZ8Y"
+  },
+  "tecmin-en": {
+   "title": "Mining Technology in Action",
+   "sub": "A Complete Guide to Installing, Automating, and Sustaining Solutions with Data and Artificial Intelligence",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0F3VB8K2N",
+   "page": "mining-technology-in-action",
+   "tags": "#mining #AI #automation #mining40 #miningtech",
+   "id": "L16",
+   "full_title": "Mining Technology in Action: A Complete Guide to Installing, Automating, and Sustaining Solutions with Data and Artificial Intelligence",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0F3VB8K2N",
+   "amazon_paperback": null
+  },
+  "robots": {
+   "title": "Designing Robots for Mining",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H3891219",
+   "page": "designing-robots-for-mining",
+   "tags": "#mining #robotics #automation #miningtech #engineering",
+   "id": "L24",
+   "full_title": "Designing Robots for Mining",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H3891219",
+   "amazon_paperback": null
+  },
+  "bev": {
+   "title": "Battery-Electric Underground Mining",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H3CDGH5F",
+   "page": "battery-electric-underground-mining",
+   "tags": "#mining #batteryelectric #decarbonization #miningtech #engineering",
+   "id": "L26",
+   "full_title": "Battery-Electric Underground Mining",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H3CDGH5F",
+   "amazon_paperback": null
+  },
+  "openpit": {
+   "title": "Open-Pit IoT Revolution",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H3CS4K38",
+   "page": "open-pit-iot-revolution",
+   "tags": "#mining #IoT #drones #5G #edgeAI",
+   "id": "L27",
+   "full_title": "Open-Pit IoT Revolution",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H3CS4K38",
+   "amazon_paperback": null
+  },
+  "iamin": {
+   "title": "Arquitecturas de IA para Minería",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "es",
+   "cat": "min",
+   "kindle": "B0H486RBQS",
+   "page": "arquitecturas-de-ia-para-mineria",
+   "tags": "#mineria #IA #mineria40 #Peru #datos",
+   "id": "L31",
+   "full_title": "Arquitecturas de IA para Minería",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H486RBQS",
+   "amazon_paperback": null
+  },
+  "autonomous": {
+   "title": "From Control Room to Autonomous Mine",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0GXSXT8BN",
+   "page": "from-control-room-to-autonomous-mine",
+   "tags": "#mining #autonomousmining #remoteoperations #miningtech #AI",
+   "id": "L32",
+   "full_title": "From Control Room to Autonomous Mine",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0GXSXT8BN",
+   "amazon_paperback": null
+  },
+  "ugconnected": {
+   "title": "The Underground Connected Mine",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0GX377FKH",
+   "page": "the-underground-connected-mine",
+   "tags": "#mining #IoT #private5G #undergroundmining #miningtech",
+   "id": "L33",
+   "full_title": "The Underground Connected Mine",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0GX377FKH",
+   "amazon_paperback": null
+  },
+  "cio-min": {
+   "title": "Centro Integrado de Operaciones para Minería",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "es",
+   "cat": "min",
+   "kindle": "B0H2SY42BP",
+   "page": "centro-integrado-de-operaciones-para-mineria",
+   "tags": "#mineria #centrodeoperaciones #mineria40 #Peru #tecnologia",
+   "id": "L34",
+   "full_title": "Centro Integrado de Operaciones para Minería",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H2SY42BP",
+   "amazon_paperback": null
+  },
+  "awsblue": {
+   "title": "AWS Cloud Architect Blueprint",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "es",
+   "cat": "cert",
+   "kindle": "B0H6RBYZQY",
+   "page": "aws-cloud-architect-blueprint",
+   "tags": "#AWS #cloud #arquitecturacloud #AWSCertified #nube",
+   "id": "L43",
+   "full_title": "AWS Cloud Architect Blueprint",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H6RBYZQY",
+   "amazon_paperback": null
+  },
+  "aiexplore": {
+   "title": "AI Mineral Exploration",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H72W5BBY",
+   "page": "ai-mineral-exploration",
+   "tags": "#mining #mineralexploration #AI #geology #miningtech",
+   "id": "L47",
+   "full_title": "AI Mineral Exploration",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H72W5BBY",
+   "amazon_paperback": null
+  },
+  "arqera": {
+   "title": "Arquitectura de Soluciones en la Era Cloud",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "es",
+   "cat": "ia",
+   "kindle": "B0H7636BT1",
+   "page": "arquitectura-de-soluciones-en-la-era-cloud",
+   "tags": "#arquitecturadesoluciones #cloud #nube #tecnologia #arquitectura",
+   "id": "L48",
+   "full_title": "Arquitectura de Soluciones en la Era Cloud",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H7636BT1",
+   "amazon_paperback": null
+  },
+  "genaimin": {
+   "title": "Generative AI for Mining",
+   "sub": "Brian Pajares · Zone Digital",
+   "lang": "en",
+   "cat": "min",
+   "kindle": "B0H7672M87",
+   "page": "generative-ai-for-mining",
+   "tags": "#mining #generativeAI #AI #mining40 #miningtech",
+   "id": "L49",
+   "full_title": "Generative AI for Mining",
+   "author": "Brian Pajares",
+   "amazon_kindle": "https://www.amazon.com/dp/B0H7672M87",
+   "amazon_paperback": null
   }
  }
 }

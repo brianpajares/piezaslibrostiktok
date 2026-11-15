@@ -1,0 +1,14 @@
+🤖 5 things to put in your spec
+
+3 lessons from the book:
+1⃣ Goal: What problem the feature solves.
+2⃣ Inputs and outputs: What goes in and what must come out.
+3⃣ Edge cases: What happens when things go wrong.
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
+
+#vibecoding #AIagents #buildinpublic #coding #AI #zonedigital #books #BookTok #learnontiktok

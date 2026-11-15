@@ -1,8 +1,14 @@
-AI agents for non-developers
+🤖 AI agents for non-developers
 
-You can build real tools without being a full-time developer.
+3 lessons from the book:
+1⃣ Describe the problem clearly
+2⃣ Let agents draft the app
+3⃣ Learn enough to review it
 
-📘 VIBE CODING — Kindle USD 9.99
-👉 Link in bio or search "VIBE CODING" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
 
 #vibecoding #AIagents #buildinpublic #coding #AI #zonedigital #books #BookTok #learnontiktok

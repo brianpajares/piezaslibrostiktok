@@ -384,5 +384,159 @@
    "time": "20:00",
    "piece": "reel_genai-en_100"
   }
+ ],
+ "2026-11-19": [
+  {
+   "time": "10:00",
+   "piece": "reel_cfa-es_037"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_ingia_038"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_wealth_101"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_solarch-en_103"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_pmp-en_104"
+  }
+ ],
+ "2026-11-20": [
+  {
+   "time": "10:00",
+   "piece": "carousel_pmp-es_039"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_aws-en_040"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_cfa-es_102"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_azure_105"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_genai-en_106"
+  }
+ ],
+ "2026-11-21": [
+  {
+   "time": "10:00",
+   "piece": "carousel_growthos_041"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_wealth_042"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_aws-es_107"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_cfa-en_108"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_azure_109"
+  }
+ ],
+ "2026-11-22": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-en_043"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_caio_044"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_ingia_110"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_growthos_111"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_wealth_112"
+  }
+ ],
+ "2026-11-23": [
+  {
+   "time": "10:00",
+   "piece": "reel_genai-en_045"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_aws-en_046"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_solarch-en_113"
+  },
+  {
+   "time": "18:00",
+   "piece": "carousel_pmp-en_114"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_mba-en_115"
+  }
+ ],
+ "2026-11-24": [
+  {
+   "time": "10:00",
+   "piece": "reel_pmp-es_047"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_ingia_048"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_aws-en_116"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_caio_117"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_pmp-en_118"
+  }
+ ],
+ "2026-11-25": [
+  {
+   "time": "10:00",
+   "piece": "reel_growthos_049"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_caio_050"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_vibe_119"
+  },
+  {
+   "time": "18:00",
+   "piece": "carousel_gcp_120"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_aws-es_121"
+  }
  ]
 }

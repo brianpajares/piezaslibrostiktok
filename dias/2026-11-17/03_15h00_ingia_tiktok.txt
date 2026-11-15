@@ -1,8 +1,14 @@
-Por qué la IA inventa respuestas
+🤖 Por qué la IA inventa respuestas
 
-Entender los límites es parte de dominar la IA generativa.
+Lo que enseña el libro:
+1⃣ Predice texto probable
+2⃣ Puede no tener el dato
+3⃣ RAG y evaluación ayudan
 
-📘 El Ingeniero de IA — Kindle USD 9.99
-👉 Link en la bio o busca "El Ingeniero de IA" en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
 
 #IA #IAGenerativa #LLM #RAG #agentesIA #zonedigital #libros #LATAM #aprendeentiktok

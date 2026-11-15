@@ -1,0 +1,16 @@
+🤖 Prompt engineering basics
+
+3 lessons from the book:
+1⃣ Role: Tell the model who it is for this task.
+2⃣ Context: Give it the information it needs.
+3⃣ Examples: Show what a good answer looks like.
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Master the Age of Generative Artificial Intelligence: The Ultimate Guide for Data Scientists of the Future
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5NTJ55Q
+
+💾 Save it and share it
+
+#GenerativeAI #DataScience #AI #MachineLearning #zonedigital

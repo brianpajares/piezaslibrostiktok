@@ -1,0 +1,16 @@
+🤖 Prompting en 4 pasos
+
+Lo que enseña el libro:
+1⃣ Rol: Dile al modelo qué papel cumple.
+2⃣ Contexto: Dale la información que necesita.
+3⃣ Ejemplos: Muestra cómo es una buena respuesta.
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
+
+💾 Guárdalo y compártelo
+
+#IA #IAGenerativa #LLM #RAG #zonedigital

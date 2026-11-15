@@ -1,0 +1,16 @@
+🤖 La pila de la IA generativa
+
+Lo que enseña el libro:
+1⃣ 1. Modelos: Modelos base para texto, imágenes y código.
+2⃣ 2. Datos: Documentos, bases de datos y embeddings.
+3⃣ 3. Orquestación: Prompts, búsqueda y agentes que lo conectan todo.
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
+
+💾 Guárdalo y compártelo
+
+#IA #IAGenerativa #LLM #RAG #zonedigital

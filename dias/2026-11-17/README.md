@@ -18,24 +18,37 @@ El **mismo video** va a TikTok y a Instagram Reels. Cada uno tiene su copy.
 
 **TikTok**
 ```
-Why Ethics decides your CFA result
+🎯 Why Ethics decides your CFA result
 
-Treat Ethics as a core subject, not a final review.
+3 lessons from the book:
+1⃣ It appears at every level
+2⃣ Questions are subtle
+3⃣ Early, repeated practice wins
 
-📘 CFA: The Certified Path to Global Financial Success — Kindle USD 9.99
-👉 Link in bio or search "CFA: The Certified Path to Global Financial Success" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 CFA: The Certified Path to Global Financial Success
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWQM4B7Z
 
 #CFA #CFAexam #finance #investing #financecareer #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-Why Ethics decides your CFA result
+🎯 Why Ethics decides your CFA result
 
-Treat Ethics as a core subject, not a final review.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ It appears at every level
+2⃣ Questions are subtle
+3⃣ Early, repeated practice wins
 
-📘 CFA: The Certified Path to Global Financial Success — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 CFA: The Certified Path to Global Financial Success
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWQM4B7Z
+
+💾 Save it and share it
 
 #CFA #CFAexam #finance #investing #zonedigital
 ```
@@ -44,24 +57,37 @@ Treat Ethics as a core subject, not a final review.
 
 **TikTok**
 ```
-AI agents for non-developers
+🤖 AI agents for non-developers
 
-You can build real tools without being a full-time developer.
+3 lessons from the book:
+1⃣ Describe the problem clearly
+2⃣ Let agents draft the app
+3⃣ Learn enough to review it
 
-📘 VIBE CODING — Kindle USD 9.99
-👉 Link in bio or search "VIBE CODING" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
 
 #vibecoding #AIagents #buildinpublic #coding #AI #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-AI agents for non-developers
+🤖 AI agents for non-developers
 
-You can build real tools without being a full-time developer.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ Describe the problem clearly
+2⃣ Let agents draft the app
+3⃣ Learn enough to review it
 
-📘 VIBE CODING — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
+
+💾 Save it and share it
 
 #vibecoding #AIagents #buildinpublic #coding #zonedigital
 ```
@@ -70,24 +96,37 @@ You can build real tools without being a full-time developer.
 
 **TikTok**
 ```
-Por qué la IA inventa respuestas
+🤖 Por qué la IA inventa respuestas
 
-Entender los límites es parte de dominar la IA generativa.
+Lo que enseña el libro:
+1⃣ Predice texto probable
+2⃣ Puede no tener el dato
+3⃣ RAG y evaluación ayudan
 
-📘 El Ingeniero de IA — Kindle USD 9.99
-👉 Link en la bio o busca "El Ingeniero de IA" en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
 
 #IA #IAGenerativa #LLM #RAG #agentesIA #zonedigital #libros #LATAM #aprendeentiktok
 ```
 **Instagram**
 ```
-Por qué la IA inventa respuestas
+🤖 Por qué la IA inventa respuestas
 
-Entender los límites es parte de dominar la IA generativa.
-💾 Guárdalo y compártelo con quien lo necesite.
+Lo que enseña el libro:
+1⃣ Predice texto probable
+2⃣ Puede no tener el dato
+3⃣ RAG y evaluación ayudan
 
-📘 El Ingeniero de IA — Kindle USD 9.99
-👉 Link en la bio · o busca el título en Amazon
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
+
+💾 Guárdalo y compártelo
 
 #IA #IAGenerativa #LLM #RAG #zonedigital
 ```
@@ -96,24 +135,37 @@ Entender los límites es parte de dominar la IA generativa.
 
 **TikTok**
 ```
-Digital product pricing basics
+🤖 Digital product pricing basics
 
-Save this for your launch.
+3 lessons from the book:
+1⃣ Price the outcome: Charge for the result, not the hours.
+2⃣ Start simple: One product, one price.
+3⃣ Test: Adjust after real sales data.
 
-📘 The AI Digital Wealth Factory — Kindle USD 9.99
-👉 Link in bio or search "The AI Digital Wealth Factory" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 The AI Digital Wealth Factory: How to Build, Automate and Monetize Digital Products with Agentic AI
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H1MQ27TL
 
 #digitalproducts #AIagents #sidehustle #passiveincome #AI #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-Digital product pricing basics
+🤖 Digital product pricing basics
 
-Save this for your launch.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ Price the outcome: Charge for the result, not the hours.
+2⃣ Start simple: One product, one price.
+3⃣ Test: Adjust after real sales data.
 
-📘 The AI Digital Wealth Factory — Kindle USD 9.99
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 The AI Digital Wealth Factory: How to Build, Automate and Monetize Digital Products with Agentic AI
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H1MQ27TL
+
+💾 Save it and share it
 
 #digitalproducts #AIagents #sidehustle #passiveincome #zonedigital
 ```
@@ -122,24 +174,39 @@ Save this for your launch.
 
 **TikTok**
 ```
-Why most AI projects stall
+🤖 Why most AI projects stall
 
-Fix these and AI starts paying for itself.
+3 lessons from the book:
+1⃣ No clear metric
+2⃣ Messy data
+3⃣ No owner
 
-📘 The AI Growth Operating System — Kindle USD 9.99 · Paperback available
-👉 Link in bio or search "The AI Growth Operating System" on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 The AI Growth Operating System: How Leaders Build Agentic Workflows, Data Foundations, and New Revenue Engines
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H2KJ15ZX
+📗 Paperback → https://www.amazon.com/dp/B0H2PWP6HX
 
 #AIstrategy #leadership #growth #agenticAI #business #zonedigital #books #BookTok #learnontiktok
 ```
 **Instagram**
 ```
-Why most AI projects stall
+🤖 Why most AI projects stall
 
-Fix these and AI starts paying for itself.
-💾 Save it and share it with someone who needs it.
+3 lessons from the book:
+1⃣ No clear metric
+2⃣ Messy data
+3⃣ No owner
 
-📘 The AI Growth Operating System — Kindle USD 9.99 · Paperback
-👉 Link in bio · or search the title on Amazon
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 The AI Growth Operating System: How Leaders Build Agentic Workflows, Data Foundations, and New Revenue Engines
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H2KJ15ZX
+📗 Paperback → https://www.amazon.com/dp/B0H2PWP6HX
+
+💾 Save it and share it
 
 #AIstrategy #leadership #growth #agenticAI #zonedigital
 ```

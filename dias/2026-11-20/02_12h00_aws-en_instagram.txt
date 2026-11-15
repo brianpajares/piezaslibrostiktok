@@ -1,0 +1,16 @@
+🎯 3 AWS services every architect must know
+
+3 lessons from the book:
+1⃣ Amazon S3 for storage
+2⃣ Amazon EC2 for compute
+3⃣ Amazon VPC for networking
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 AWS Solutions Architect Associate: Get Certified and Transform Your Career in the Cloud
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0DWTB2V3R
+
+💾 Save it and share it
+
+#AWS #AWScertified #SAAC03 #cloudcomputing #zonedigital

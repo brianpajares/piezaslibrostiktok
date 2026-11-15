@@ -1,0 +1,16 @@
+🤖 Fine-tuning vs. RAG
+
+3 lessons from the book:
+1⃣ RAG: add fresh knowledge
+2⃣ Fine-tuning: change behavior and style
+3⃣ Many teams start with RAG
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Master the Age of Generative Artificial Intelligence: The Ultimate Guide for Data Scientists of the Future
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5NTJ55Q
+
+💾 Save it and share it
+
+#GenerativeAI #DataScience #AI #MachineLearning #zonedigital

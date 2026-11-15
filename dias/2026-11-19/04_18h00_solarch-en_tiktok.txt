@@ -1,0 +1,14 @@
+🚀 Design for failure
+
+3 lessons from the book:
+1⃣ Assume components will fail
+2⃣ Remove single points of failure
+3⃣ Test recovery regularly
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Solutions Architecture for Technology Leaders: Design, Scale, and Transform
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5QKYCJV
+
+#SolutionsArchitecture #CloudArchitect #TechLeadership #SoftwareArchitecture #CTO #zonedigital #books #BookTok #learnontiktok
