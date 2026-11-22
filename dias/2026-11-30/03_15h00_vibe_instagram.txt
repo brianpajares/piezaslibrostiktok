@@ -1,0 +1,16 @@
+🤖 Small tasks beat giant prompts
+
+3 lessons from the book:
+1⃣ One feature per request
+2⃣ Commit after each step
+3⃣ Roll back when it drifts
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
+
+💾 Save it and share it
+
+#vibecoding #AIagents #buildinpublic #coding #zonedigital

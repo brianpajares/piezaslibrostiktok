@@ -1,0 +1,16 @@
+🎯 RBAC en Azure en 15 segundos
+
+Lo que enseña el libro:
+1⃣ Quién: usuario o grupo
+2⃣ Qué: rol con permisos
+3⃣ Dónde: el ámbito asignado
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Domina Azure y Certifícate Rápido: La guía total para aprobar el examen AZ-104
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HS7VKJ
+
+💾 Guárdalo y compártelo
+
+#Azure #AZ104 #Microsoft #cloud #zonedigital

@@ -1,0 +1,14 @@
+🤖 Git habits that save vibe coders
+
+3 lessons from the book:
+1⃣ Branch per feature: Never let an agent work directly on main.
+2⃣ Commit often: Small commits mean easy rollbacks.
+3⃣ Read the diff: Know exactly what the agent changed.
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
+
+#vibecoding #AIagents #buildinpublic #coding #AI #zonedigital #books #BookTok #learnontiktok

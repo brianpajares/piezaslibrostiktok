@@ -1,0 +1,14 @@
+🚀 Monolith or microservices?
+
+3 lessons from the book:
+1⃣ Start simple with a monolith
+2⃣ Split when teams need it
+3⃣ Microservices add ops cost
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 Solutions Architecture for Technology Leaders: Design, Scale, and Transform
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0F5QKYCJV
+
+#SolutionsArchitecture #CloudArchitect #TechLeadership #SoftwareArchitecture #CTO #zonedigital #books #BookTok #learnontiktok

@@ -2347,6 +2347,598 @@
    "id": "carousel_genai-en_122",
    "origin": "b3",
    "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "Multi-AZ vs. read replicas",
+   "points": [
+    "Multi-AZ = high availability",
+    "Read replicas = read scaling",
+    "Multi-AZ failover is automatic"
+   ],
+   "cap": "One of the most tested pairs on the AWS SAA exam.",
+   "id": "reel_aws-en_123",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-es",
+   "hook": "Ruta crítica en 15 segundos",
+   "points": [
+    "Es el camino más largo",
+    "Actividades con holgura cero",
+    "Si se atrasa, se atrasa todo"
+   ],
+   "cap": "Un concepto que sí o sí aparece en el examen PMP.",
+   "id": "reel_pmp-es_124",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "vibe",
+   "slides": [
+    {
+     "h": "Git habits that save vibe coders",
+     "b": "AI moves fast. Git keeps you safe."
+    },
+    {
+     "h": "Branch per feature",
+     "b": "Never let an agent work directly on main."
+    },
+    {
+     "h": "Commit often",
+     "b": "Small commits mean easy rollbacks."
+    },
+    {
+     "h": "Read the diff",
+     "b": "Know exactly what the agent changed."
+    },
+    {
+     "h": "Write good messages",
+     "b": "Your future self will thank you."
+    }
+   ],
+   "cap": "Save this before your next AI coding session.",
+   "id": "carousel_vibe_125",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "Pick AI use cases by value",
+   "points": [
+    "Start with a costly problem",
+    "Check data availability",
+    "Measure before and after"
+   ],
+   "cap": "The best AI projects start with a business problem, not a tool.",
+   "id": "reel_growthos_126",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "caio",
+   "hook": "Política de uso de IA en tu empresa",
+   "points": [
+    "Qué datos no se comparten",
+    "Qué herramientas están aprobadas",
+    "Quién revisa lo que produce"
+   ],
+   "cap": "Sin reglas claras, cada área usa la IA a su manera.",
+   "id": "reel_caio_127",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-en",
+   "hook": "Time value of money in 15 seconds",
+   "points": [
+    "A dollar today beats tomorrow",
+    "Discount future cash flows",
+    "Higher rate = lower PV"
+   ],
+   "cap": "The foundation of almost every CFA valuation question.",
+   "id": "reel_cfa-en_128",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "azure",
+   "slides": [
+    {
+     "h": "Pregunta tipo AZ-104: alta disponibilidad",
+     "b": "Responde antes de deslizar."
+    },
+    {
+     "h": "El caso",
+     "b": "Dos VMs deben seguir disponibles aunque falle un centro de datos de la región."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Mismo conjunto de disponibilidad\nB) Zonas de disponibilidad distintas\nC) Un disco más grande\nD) Una sola VM más potente"
+    },
+    {
+     "h": "Respuesta: B",
+     "b": "Las zonas de disponibilidad son centros de datos separados dentro de la región."
+    },
+    {
+     "h": "Regla del examen",
+     "b": "Falla de centro de datos = zonas. Falla de rack = conjunto de disponibilidad."
+    }
+   ],
+   "cap": "Comenta tu respuesta 👇",
+   "id": "carousel_azure_129",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "Review AI code like a senior",
+   "points": [
+    "Read every diff before merging",
+    "Run the tests yourself",
+    "Check auth and inputs"
+   ],
+   "cap": "AI writes fast; you are still responsible for what ships.",
+   "id": "reel_vibe_130",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "ingia",
+   "hook": "Chunking para RAG",
+   "points": [
+    "Divide documentos en partes",
+    "Ni muy cortas ni muy largas",
+    "Agrega metadatos a cada parte"
+   ],
+   "cap": "Un buen RAG empieza por cómo cortas tus documentos.",
+   "id": "reel_ingia_131",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "aws-en",
+   "slides": [
+    {
+     "h": "AWS exam question: unpredictable traffic",
+     "b": "Answer before you swipe."
+    },
+    {
+     "h": "The case",
+     "b": "An API has spiky, unpredictable traffic. The team wants minimal ops and pay per use."
+    },
+    {
+     "h": "Options",
+     "b": "A) EC2 fleet sized for peak\nB) AWS Lambda behind API Gateway\nC) One large EC2 instance\nD) An on-premises server"
+    },
+    {
+     "h": "Answer: B",
+     "b": "Lambda scales automatically and you pay only for what runs."
+    },
+    {
+     "h": "Exam rule",
+     "b": "Spiky traffic + no servers to manage = serverless."
+    }
+   ],
+   "cap": "Did you get it? 👇",
+   "id": "carousel_aws-en_132",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Build once, sell many times",
+   "points": [
+    "Create a template or guide",
+    "Automate delivery",
+    "Improve it with feedback"
+   ],
+   "cap": "Digital products let your work keep selling after you make it.",
+   "id": "reel_wealth_133",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "gcp",
+   "hook": "IAM en Google Cloud",
+   "points": [
+    "Usa roles, no permisos sueltos",
+    "Aplica mínimo privilegio",
+    "Prefiere grupos a usuarios"
+   ],
+   "cap": "Tres reglas de IAM que el examen ACE da por sentadas.",
+   "id": "reel_gcp_134",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "pmp-en",
+   "hook": "Critical path in 15 seconds",
+   "points": [
+    "Longest path through the network",
+    "Activities with zero float",
+    "A delay here delays the project"
+   ],
+   "cap": "A concept you will see on PMP exam day.",
+   "id": "reel_pmp-en_135",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "genai-en",
+   "slides": [
+    {
+     "h": "Embeddings in 5 slides",
+     "b": "The idea behind semantic search."
+    },
+    {
+     "h": "Text becomes numbers",
+     "b": "An embedding is a vector that captures meaning."
+    },
+    {
+     "h": "Similar meaning, close vectors",
+     "b": "'Car' and 'automobile' end up near each other."
+    },
+    {
+     "h": "Search by meaning",
+     "b": "Compare vectors to find the most relevant documents."
+    },
+    {
+     "h": "Where you use them",
+     "b": "RAG, recommendations, clustering and deduplication."
+    }
+   ],
+   "cap": "Save this for your next GenAI project.",
+   "id": "carousel_genai-en_136",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "d2d",
+   "hook": "Del dato a la decisión",
+   "points": [
+    "Empieza por la decisión",
+    "Mide el impacto en soles",
+    "Automatiza lo que se repite"
+   ],
+   "cap": "Los datos solo valen cuando cambian una decisión.",
+   "id": "reel_d2d_137",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "solarch-en",
+   "hook": "Monolith or microservices?",
+   "points": [
+    "Start simple with a monolith",
+    "Split when teams need it",
+    "Microservices add ops cost"
+   ],
+   "cap": "Architecture should follow your team and your scale, not the hype.",
+   "id": "reel_solarch-en_138",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-es",
+   "slides": [
+    {
+     "h": "Pregunta PMP: piden un cambio directo al equipo",
+     "b": "Responde antes de deslizar."
+    },
+    {
+     "h": "El caso",
+     "b": "A mitad del proyecto, un interesado clave pide al equipo agregar una función nueva."
+    },
+    {
+     "h": "Opciones",
+     "b": "A) Agregarla para tenerlo contento\nB) Negarse sin más\nC) Analizar el impacto y seguir el control de cambios\nD) Escalar al patrocinador"
+    },
+    {
+     "h": "Respuesta: C",
+     "b": "Primero analizas el impacto y usas el proceso de control de cambios."
+    },
+    {
+     "h": "Regla del examen",
+     "b": "En ágil, el pedido va al dueño del producto y al backlog."
+    }
+   ],
+   "cap": "¿Cuál elegiste? 👇",
+   "id": "carousel_pmp-es_139",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "growthos",
+   "hook": "Human in the loop, by design",
+   "points": [
+    "Agents draft, humans approve",
+    "Set clear escalation rules",
+    "Log every agent action"
+   ],
+   "cap": "Agentic workflows scale when people stay in control of key decisions.",
+   "id": "reel_growthos_140",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "Security groups vs. NACLs",
+   "points": [
+    "Security groups are stateful",
+    "NACLs are stateless",
+    "NACLs work at subnet level"
+   ],
+   "cap": "A classic AWS SAA comparison, explained fast.",
+   "id": "reel_aws-en_141",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "cfa-es",
+   "hook": "Valor del dinero en el tiempo",
+   "points": [
+    "Un sol hoy vale más que mañana",
+    "Descuenta los flujos futuros",
+    "Más tasa = menor valor presente"
+   ],
+   "cap": "La base de casi todas las preguntas de valoración del CFA.",
+   "id": "reel_cfa-es_142",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "wealth",
+   "slides": [
+    {
+     "h": "5 digital products you can build with AI",
+     "b": "Pick one and start this week."
+    },
+    {
+     "h": "Templates",
+     "b": "Spreadsheets, planners and Notion systems."
+    },
+    {
+     "h": "Ebooks and guides",
+     "b": "Package what you already know."
+    },
+    {
+     "h": "Mini courses",
+     "b": "Short video lessons on one skill."
+    },
+    {
+     "h": "Prompt packs",
+     "b": "Tested prompts for one specific job."
+    }
+   ],
+   "cap": "Which one would you build first? 👇",
+   "id": "carousel_wealth_143",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "vibe",
+   "hook": "Small tasks beat giant prompts",
+   "points": [
+    "One feature per request",
+    "Commit after each step",
+    "Roll back when it drifts"
+   ],
+   "cap": "The fastest way to ship with AI agents is in small steps.",
+   "id": "reel_vibe_144",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "azure",
+   "hook": "RBAC en Azure en 15 segundos",
+   "points": [
+    "Quién: usuario o grupo",
+    "Qué: rol con permisos",
+    "Dónde: el ámbito asignado"
+   ],
+   "cap": "El modelo de permisos que más aparece en el AZ-104.",
+   "id": "reel_azure_145",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "pmp-en",
+   "slides": [
+    {
+     "h": "PMP question: a stakeholder wants a new feature",
+     "b": "Answer before you swipe."
+    },
+    {
+     "h": "The case",
+     "b": "Mid-project, a key stakeholder asks the team directly to add a new feature."
+    },
+    {
+     "h": "Options",
+     "b": "A) Add it to keep them happy\nB) Refuse the request\nC) Assess impact and follow change control\nD) Escalate to the sponsor"
+    },
+    {
+     "h": "Answer: C",
+     "b": "Assess the impact first, then use the change control process."
+    },
+    {
+     "h": "Exam rule",
+     "b": "In agile, the request goes to the product owner and the backlog."
+    }
+   ],
+   "cap": "Which one did you pick? 👇",
+   "id": "carousel_pmp-en_146",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "genai-en",
+   "hook": "Temperature explained",
+   "points": [
+    "Low = focused and consistent",
+    "High = varied and creative",
+    "Pick it per task"
+   ],
+   "cap": "One setting that changes how an LLM answers.",
+   "id": "reel_genai-en_147",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "loop",
+   "hook": "Qué es un bucle de agentes",
+   "points": [
+    "Actúa: ejecuta la tarea",
+    "Observa: revisa el resultado",
+    "Mejora: ajusta y repite"
+   ],
+   "cap": "Así trabajan los agentes de IA que mejoran solos.",
+   "id": "reel_loop_148",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "mba-en",
+   "hook": "Unit economics in 15 seconds",
+   "points": [
+    "Know your cost per customer",
+    "Know your lifetime value",
+    "LTV must beat CAC"
+   ],
+   "cap": "If each customer loses money, growth makes it worse.",
+   "id": "reel_mba-en_149",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "ingia",
+   "slides": [
+    {
+     "h": "Agentes de IA en 5 diapositivas",
+     "b": "Más que un chatbot."
+    },
+    {
+     "h": "Un objetivo",
+     "b": "El agente recibe una meta, no solo una pregunta."
+    },
+    {
+     "h": "Herramientas",
+     "b": "Puede buscar, consultar APIs o ejecutar código."
+    },
+    {
+     "h": "Un bucle",
+     "b": "Planifica, actúa, observa el resultado y ajusta."
+    },
+    {
+     "h": "Límites",
+     "b": "Permisos mínimos y revisión humana en acciones críticas."
+    }
+   ],
+   "cap": "Guárdalo para tu próximo proyecto de IA.",
+   "id": "carousel_ingia_150",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "twin",
+   "hook": "What a mine digital twin does",
+   "points": [
+    "Mirrors the mine with live data",
+    "Tests changes before doing them",
+    "Spots problems earlier"
+   ],
+   "cap": "From Peru to Chile, mines are building virtual copies of their operations.",
+   "id": "reel_twin_151",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "carousel",
+   "book": "cfa-en",
+   "slides": [
+    {
+     "h": "Nominal vs. real return",
+     "b": "A CFA Level I classic."
+    },
+    {
+     "h": "Nominal return",
+     "b": "What you earn before inflation."
+    },
+    {
+     "h": "Real return",
+     "b": "What you earn after inflation: your real purchasing power."
+    },
+    {
+     "h": "Quick approximation",
+     "b": "Real ≈ nominal − inflation. Exact: (1+nominal)/(1+inflation) − 1."
+    },
+    {
+     "h": "Why it matters",
+     "b": "Investors care about purchasing power, not just numbers."
+    }
+   ],
+   "cap": "Save this for your CFA review.",
+   "id": "carousel_cfa-en_152",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "aws-en",
+   "hook": "Choose the right AWS database",
+   "points": [
+    "Relational: Amazon RDS",
+    "Key-value at scale: DynamoDB",
+    "Caching: ElastiCache"
+   ],
+   "cap": "Matching the workload to the database is a core SAA skill.",
+   "id": "reel_aws-en_153",
+   "origin": "new",
+   "pref_date": null
+  },
+  {
+   "fmt": "reel",
+   "book": "wealth",
+   "hook": "Price your digital product",
+   "points": [
+    "Price by the result it gives",
+    "Offer a basic and a premium",
+    "Test and adjust with data"
+   ],
+   "cap": "Your price should reflect the problem you solve.",
+   "id": "reel_wealth_154",
+   "origin": "new",
+   "pref_date": null
   }
  ]
 }

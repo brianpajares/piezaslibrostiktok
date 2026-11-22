@@ -1,0 +1,16 @@
+🤖 Chunking para RAG
+
+Lo que enseña el libro:
+1⃣ Divide documentos en partes
+2⃣ Ni muy cortas ni muy largas
+3⃣ Agrega metadatos a cada parte
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
+
+💾 Guárdalo y compártelo
+
+#IA #IAGenerativa #LLM #RAG #zonedigital

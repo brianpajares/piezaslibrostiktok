@@ -1,0 +1,16 @@
+🎯 IAM en Google Cloud
+
+Lo que enseña el libro:
+1⃣ Usa roles, no permisos sueltos
+2⃣ Aplica mínimo privilegio
+3⃣ Prefiere grupos a usuarios
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Google Cloud Engineer: Guía completa para aprobar la certificación Associate Cloud Engineer (ACE)
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HPWHMG
+
+💾 Guárdalo y compártelo
+
+#GoogleCloud #GCP #cloudengineer #certificacion #zonedigital

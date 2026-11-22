@@ -1,0 +1,15 @@
+🎯 Pregunta tipo AZ-104: alta disponibilidad
+
+Lo que enseña el libro:
+1⃣ Las zonas de disponibilidad son centros de datos separados dentro de la región.
+2⃣ Falla de centro de datos = zonas. Falla de rack = conjunto de disponibilidad.
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 Domina Azure y Certifícate Rápido: La guía total para aprobar el examen AZ-104
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H4HS7VKJ
+
+💾 Guárdalo y compártelo
+
+#Azure #AZ104 #Microsoft #cloud #zonedigital

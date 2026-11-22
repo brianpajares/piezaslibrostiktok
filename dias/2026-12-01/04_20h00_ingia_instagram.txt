@@ -1,0 +1,16 @@
+🤖 Agentes de IA en 5 diapositivas
+
+Lo que enseña el libro:
+1⃣ Un objetivo: El agente recibe una meta, no solo una pregunta.
+2⃣ Herramientas: Puede buscar, consultar APIs o ejecutar código.
+3⃣ Un bucle: Planifica, actúa, observa el resultado y ajusta.
+
+💬 ¿Cuál aplicarías primero? Cuéntame en comentarios.
+
+📘 El Ingeniero de IA: Construye aplicaciones GenAI de producción con LLMs, RAG y agentes
+✍️ de Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H47SQ4SK
+
+💾 Guárdalo y compártelo
+
+#IA #IAGenerativa #LLM #RAG #zonedigital

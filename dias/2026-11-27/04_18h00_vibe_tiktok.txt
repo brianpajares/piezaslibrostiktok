@@ -1,0 +1,14 @@
+🤖 Review AI code like a senior
+
+3 lessons from the book:
+1⃣ Read every diff before merging
+2⃣ Run the tests yourself
+3⃣ Check auth and inputs
+
+💬 Which one would you apply first? Tell me in the comments.
+
+📘 VIBE CODING: The Professional System for Building, Shipping, and Scaling Software with AI Agents
+✍️ by Brian Pajares
+🛒 Kindle USD 9.99 → https://www.amazon.com/dp/B0H6RB9BQM
+
+#vibecoding #AIagents #buildinpublic #coding #AI #zonedigital #books #BookTok #learnontiktok

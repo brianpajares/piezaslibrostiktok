@@ -538,5 +538,151 @@
    "time": "20:00",
    "piece": "carousel_aws-es_121"
   }
+ ],
+ "2026-11-26": [
+  {
+   "time": "10:00",
+   "piece": "carousel_genai-en_122"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_aws-en_123"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_pmp-es_124"
+  },
+  {
+   "time": "18:00",
+   "piece": "carousel_vibe_125"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_growthos_126"
+  }
+ ],
+ "2026-11-27": [
+  {
+   "time": "10:00",
+   "piece": "reel_caio_127"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_cfa-en_128"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_azure_129"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_vibe_130"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_ingia_131"
+  }
+ ],
+ "2026-11-28": [
+  {
+   "time": "10:00",
+   "piece": "carousel_aws-en_132"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_wealth_133"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_gcp_134"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_pmp-en_135"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_genai-en_136"
+  }
+ ],
+ "2026-11-29": [
+  {
+   "time": "10:00",
+   "piece": "reel_d2d_137"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_solarch-en_138"
+  },
+  {
+   "time": "15:00",
+   "piece": "carousel_pmp-es_139"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_growthos_140"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_aws-en_141"
+  }
+ ],
+ "2026-11-30": [
+  {
+   "time": "10:00",
+   "piece": "reel_cfa-es_142"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_wealth_143"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_vibe_144"
+  },
+  {
+   "time": "18:00",
+   "piece": "reel_azure_145"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_pmp-en_146"
+  }
+ ],
+ "2026-12-01": [
+  {
+   "time": "10:00",
+   "piece": "reel_genai-en_147"
+  },
+  {
+   "time": "12:00",
+   "piece": "reel_loop_148"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_mba-en_149"
+  },
+  {
+   "time": "20:00",
+   "piece": "carousel_ingia_150"
+  }
+ ],
+ "2026-12-02": [
+  {
+   "time": "10:00",
+   "piece": "reel_twin_151"
+  },
+  {
+   "time": "12:00",
+   "piece": "carousel_cfa-en_152"
+  },
+  {
+   "time": "15:00",
+   "piece": "reel_aws-en_153"
+  },
+  {
+   "time": "20:00",
+   "piece": "reel_wealth_154"
+  }
  ]
 }
